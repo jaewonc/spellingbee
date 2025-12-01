@@ -9,8 +9,6 @@
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: url('background.jpg') no-repeat center center fixed;
-            background-size: cover;
             min-height: 100vh;
             display: flex;
             align-items: center;
@@ -23,9 +21,9 @@
             position: fixed;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
-            background: url('background.jpg') no-repeat center center fixed;
+            width: 100vw;
+            height: 100vh;
+            background: url('background.jpg') no-repeat center center;
             background-size: cover;
             filter: blur(2px);
             z-index: -1;
@@ -401,7 +399,7 @@
                 
                 <div class="btn-group">
                     <button class="btn-primary" id="submitBtn" onclick="checkAnswer()">Submit Answer</button>
-                    <button class="btn-success" onclick="pronounceWord()">🔊 Repeat Word</button>
+                    <button class="btn-success" onclick="pronounceWord()">Repeat Word</button>
                     <button class="btn-secondary" onclick="stopPractice()">Stop Practice</button>
                 </div>
             </div>
@@ -625,6 +623,8 @@
         }
 
         function nextWord() {
+            speechSynthesis.cancel();
+            
             if (words.length === 0) {
                 stopPractice();
                 return;
@@ -651,23 +651,25 @@
         }
 
         function pronounceWord() {
+            speechSynthesis.cancel();
+            
             const utterance = new SpeechSynthesisUtterance(currentWord.word);
             utterance.rate = 0.6;
-            speechSynthesis.speak(utterance);
             
-            setTimeout(() => {
+            utterance.onend = () => {
                 const defUtterance = new SpeechSynthesisUtterance(currentWord.definition);
                 defUtterance.rate = 0.6;
-                speechSynthesis.speak(defUtterance);
                 
                 defUtterance.onend = () => {
-                    setTimeout(() => {
-                        const finalUtterance = new SpeechSynthesisUtterance(currentWord.word);
-                        finalUtterance.rate = 0.6;
-                        speechSynthesis.speak(finalUtterance);
-                    }, 500);
+                    const finalUtterance = new SpeechSynthesisUtterance(currentWord.word);
+                    finalUtterance.rate = 0.6;
+                    speechSynthesis.speak(finalUtterance);
                 };
-            }, 1500);
+                
+                speechSynthesis.speak(defUtterance);
+            };
+            
+            speechSynthesis.speak(utterance);
         }
 
         function updateStats() {
@@ -681,6 +683,8 @@
         function checkAnswer() {
             const userAnswer = document.getElementById('userInput').value.trim().toLowerCase();
             if (!userAnswer) return;
+            
+            speechSynthesis.cancel();
             
             document.getElementById('userInput').disabled = true;
             document.getElementById('submitBtn').disabled = true;
@@ -717,6 +721,7 @@
         }
 
         function stopPractice() {
+            speechSynthesis.cancel();
             saveSession();
             
             document.getElementById('practice').classList.add('hidden');
@@ -769,21 +774,21 @@
             
             // Create points for accuracy line
             const accuracyPoints = last10.map((s, i) => {
-                const x = padding + (i / (last10.length - 1)) * chartWidth;
+                const x = last10.length === 1 ? width / 2 : padding + (i / (last10.length - 1)) * chartWidth;
                 const y = height - padding - (s.accuracy / 100) * chartHeight;
                 return `${x},${y}`;
             }).join(' ');
             
             // Create points for word count line
             const wordPoints = last10.map((s, i) => {
-                const x = padding + (i / (last10.length - 1)) * chartWidth;
+                const x = last10.length === 1 ? width / 2 : padding + (i / (last10.length - 1)) * chartWidth;
                 const y = height - padding - (s.total / maxWords) * chartHeight;
                 return `${x},${y}`;
             }).join(' ');
             
             // Create circles and labels for data points
             const circles = last10.map((s, i) => {
-                const x = padding + (i / (last10.length - 1)) * chartWidth;
+                const x = last10.length === 1 ? width / 2 : padding + (i / (last10.length - 1)) * chartWidth;
                 const yAcc = height - padding - (s.accuracy / 100) * chartHeight;
                 const yWords = height - padding - (s.total / maxWords) * chartHeight;
                 return `<circle cx="${x}" cy="${yAcc}" r="4" fill="#667eea"/>
@@ -845,6 +850,7 @@
             currentIndex = 0;
             document.getElementById('results').classList.add('hidden');
             document.getElementById('setup').classList.remove('hidden');
+            showPracticeOptions();
         }
 
         function backToSelection() {
