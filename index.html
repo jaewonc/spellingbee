@@ -96,7 +96,7 @@
             color: #4a5568;
         }
         
-        input {
+        input[type="text"] {
             width: 100%;
             padding: 16px;
             font-size: 18px;
@@ -104,18 +104,35 @@
             border-radius: 10px;
             margin: 20px 0;
             transition: all 0.3s;
+            background: white;
         }
         
-        input:focus {
+        input[type="text"]:focus {
             outline: none;
             border-color: #667eea;
             box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
         }
         
-        input:disabled {
+        input[type="text"]:disabled {
             background: #f7fafc;
             color: #a0aec0;
             cursor: not-allowed;
+        }
+        
+        input[type="number"] {
+            padding: 10px 12px;
+            font-size: 15px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            background: white;
+            transition: all 0.2s;
+            width: 80px;
+        }
+        
+        input[type="number"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
         }
         
         .btn-group {
@@ -169,11 +186,13 @@
         button:disabled {
             opacity: 0.5;
             cursor: not-allowed;
+            background: #cbd5e0;
         }
         
         button:disabled:hover {
             transform: none;
             box-shadow: none;
+            background: #cbd5e0;
         }
         
         .feedback {
@@ -274,35 +293,130 @@
             font-size: 16px;
         }
         
-        .option-group label {
-            display: inline-block;
-            margin-right: 20px;
-            font-size: 16px;
-            color: #2d3748;
+        .radio-container {
+            background: white;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            padding: 8px;
+        }
+        
+        input[type="range"] {
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: #e2e8f0;
+            outline: none;
+            -webkit-appearance: none;
+        }
+        
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #667eea;
             cursor: pointer;
         }
         
-        .option-group input[type="radio"] {
-            margin-right: 8px;
-            width: auto;
+        input[type="range"]::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+            border: none;
         }
         
-        .option-group input[type="number"] {
-            width: 100px;
-            padding: 8px;
-            margin-left: 10px;
-            font-size: 14px;
+        .slider-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .slider-value {
+            min-width: 40px;
+            text-align: right;
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        .option-group label {
+            display: flex;
+            align-items: center;
+            padding: 12px 16px;
+            margin: 4px 0;
+            background: white;
+            border: 2px solid transparent;
+            border-radius: 8px;
+            font-size: 16px;
+            color: #2d3748;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .option-group label:hover {
+            background: #f7fafc;
+        }
+        
+        .option-group input[type="radio"] {
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #cbd5e0;
+            border-radius: 50%;
+            margin-right: 12px;
+            cursor: pointer;
+            position: relative;
+            flex-shrink: 0;
+            transition: all 0.2s;
+        }
+        
+        .option-group input[type="radio"]:checked {
+            border-color: #667eea;
+            background: #667eea;
+        }
+        
+        .option-group input[type="radio"]:checked::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 8px;
+            height: 8px;
+            background: white;
+            border-radius: 50%;
+        }
+        
+        .option-group input[type="radio"]:hover {
+            border-color: #667eea;
         }
         
         select {
             width: 100%;
-            padding: 12px;
+            padding: 14px 16px;
             font-size: 16px;
             border: 2px solid #e2e8f0;
             border-radius: 10px;
             margin: 15px 0;
             background: white;
             cursor: pointer;
+            transition: all 0.2s;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23667eea' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 16px center;
+            padding-right: 40px;
+        }
+        
+        select:hover {
+            border-color: #cbd5e0;
+        }
+        
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
         }
         
         .history-section {
@@ -456,6 +570,7 @@
         let wordlistFiles = [];
         let sessionHistory = [];
         let currentWordlist = '';
+        let voiceSpeed = 0.7;
 
         function loadHistory() {
             const saved = localStorage.getItem('spellingBeeHistory');
@@ -594,16 +709,23 @@
                     </p>
                     <div class="option-group">
                         <h3>Word Selection Mode:</h3>
-                        <label>
-                            <input type="radio" name="mode" value="random" checked onchange="selectionMode='random'">
-                            Random order
-                        </label>
-                        <label>
-                            <input type="radio" name="mode" value="ordinal" onchange="selectionMode='ordinal'">
-                            Sequential order
-                            <input type="number" id="startNum" min="1" max="${words.length}" value="1" 
-                                   style="margin-left: 10px;" placeholder="Start #">
-                        </label>
+                        <div class="radio-container">
+                            <label>
+                                <input type="radio" name="mode" value="random" checked onchange="selectionMode='random'">
+                                <span>Random order</span>
+                            </label>
+                            <label>
+                                <input type="radio" name="mode" value="ordinal" onchange="selectionMode='ordinal'">
+                                <span>Sequential order (start at word #<input type="number" id="startNum" min="1" max="${words.length}" value="1" onclick="event.stopPropagation(); this.parentElement.parentElement.querySelector('input[type=radio]').checked=true; selectionMode='ordinal';">)</span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="option-group">
+                        <h3>Voice Speed:</h3>
+                        <div class="slider-container">
+                            <input type="range" id="voiceSpeed" min="0.3" max="1.0" step="0.1" value="${voiceSpeed}" oninput="voiceSpeed=parseFloat(this.value); document.getElementById('speedValue').textContent=this.value">
+                            <span class="slider-value" id="speedValue">${voiceSpeed}</span>
+                        </div>
                     </div>
                     <button class="btn-primary" onclick="startPractice()" style="width: 100%;">
                         Start Practice Session
@@ -654,15 +776,15 @@
             speechSynthesis.cancel();
             
             const utterance = new SpeechSynthesisUtterance(currentWord.word);
-            utterance.rate = 0.6;
+            utterance.rate = voiceSpeed;
             
             utterance.onend = () => {
                 const defUtterance = new SpeechSynthesisUtterance(currentWord.definition);
-                defUtterance.rate = 0.6;
+                defUtterance.rate = voiceSpeed;
                 
                 defUtterance.onend = () => {
                     const finalUtterance = new SpeechSynthesisUtterance(currentWord.word);
-                    finalUtterance.rate = 0.6;
+                    finalUtterance.rate = voiceSpeed;
                     speechSynthesis.speak(finalUtterance);
                 };
                 
