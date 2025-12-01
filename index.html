@@ -571,11 +571,23 @@
         let sessionHistory = [];
         let currentWordlist = '';
         let voiceSpeed = 0.7;
+        let nextWordTimeout = null;
+        let isSpeaking = false;
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
 
         function loadHistory() {
-            const saved = localStorage.getItem('spellingBeeHistory');
-            if (saved) {
-                sessionHistory = JSON.parse(saved);
+            try {
+                const saved = localStorage.getItem('spellingBeeHistory');
+                if (saved) {
+                    sessionHistory = JSON.parse(saved);
+                }
+            } catch (e) {
+                sessionHistory = [];
             }
         }
 
@@ -589,7 +601,11 @@
                 accuracy: total > 0 ? Math.round((correct / total) * 100) : 0
             };
             sessionHistory.push(session);
-            localStorage.setItem('spellingBeeHistory', JSON.stringify(sessionHistory));
+            try {
+                localStorage.setItem('spellingBeeHistory', JSON.stringify(sessionHistory));
+            } catch (e) {
+                console.warn('Failed to save history:', e);
+            }
         }
 
         window.onload = function() {
@@ -660,14 +676,16 @@
                     lines.shift();
                     
                     words = lines.map(line => {
-                        // Parse CSV properly handling quoted fields
                         const parts = [];
                         let current = '';
                         let inQuotes = false;
                         
                         for (let i = 0; i < line.length; i++) {
                             const char = line[i];
-                            if (char === '"') {
+                            if (char === '"' && line[i + 1] === '"') {
+                                current += '"';
+                                i++;
+                            } else if (char === '"') {
                                 inQuotes = !inQuotes;
                             } else if (char === ',' && !inQuotes) {
                                 parts.push(current.trim());
@@ -678,13 +696,15 @@
                         }
                         parts.push(current.trim());
                         
+                        if (parts.length < 2 || !parts[1]) return null;
+                        
                         return {
-                            word: parts[1]?.trim(),
-                            partOfSpeech: parts[2]?.trim(),
+                            word: parts[1].trim(),
+                            partOfSpeech: parts[2]?.trim() || '',
                             definition: parts[3]?.trim() || 'No definition provided',
                             alternative: parts[4]?.replace(/"/g, '').trim() || ''
                         };
-                    }).filter(w => w.word);
+                    }).filter(w => w);
                     
                     if (words.length === 0) throw new Error('No valid words found');
                     
@@ -693,7 +713,7 @@
                 .catch(error => {
                     document.getElementById('setup').innerHTML = 
                         `<div style="text-align: center; color: #e53e3e;">
-                            <p style="font-size: 18px; margin-bottom: 10px;">❌ ${error.message}</p>
+                            <p style="font-size: 18px; margin-bottom: 10px;">❌ ${escapeHtml(error.message)}</p>
                             <button class="btn-secondary" onclick="showFileSelection()" style="width: 100%; margin-top: 10px;">
                                 Back to Selection
                             </button>
@@ -745,6 +765,8 @@
         }
 
         function nextWord() {
+            if (nextWordTimeout) clearTimeout(nextWordTimeout);
+            isSpeaking = false;
             speechSynthesis.cancel();
             
             if (words.length === 0) {
@@ -773,7 +795,9 @@
         }
 
         function pronounceWord() {
+            if (!window.speechSynthesis || !currentWord || isSpeaking) return;
             speechSynthesis.cancel();
+            isSpeaking = true;
             
             const utterance = new SpeechSynthesisUtterance(currentWord.word);
             utterance.rate = voiceSpeed;
@@ -785,6 +809,7 @@
                 defUtterance.onend = () => {
                     const finalUtterance = new SpeechSynthesisUtterance(currentWord.word);
                     finalUtterance.rate = voiceSpeed;
+                    finalUtterance.onend = () => { isSpeaking = false; };
                     speechSynthesis.speak(finalUtterance);
                 };
                 
@@ -803,9 +828,11 @@
         }
 
         function checkAnswer() {
-            const userAnswer = document.getElementById('userInput').value.trim().toLowerCase();
+            const userAnswer = document.getElementById('userInput').value.trim().replace(/\s+/g, ' ').toLowerCase();
             if (!userAnswer) return;
             
+            if (nextWordTimeout) clearTimeout(nextWordTimeout);
+            isSpeaking = false;
             speechSynthesis.cancel();
             
             document.getElementById('userInput').disabled = true;
@@ -827,15 +854,15 @@
                     userAnswer: userAnswer,
                     alternative: currentWord.alternative
                 });
-                const altText = currentWord.alternative ? ` or ${currentWord.alternative}` : '';
+                const altText = currentWord.alternative ? ` or ${escapeHtml(currentWord.alternative)}` : '';
                 document.getElementById('wordDisplay').innerHTML = 
                     `<div style="font-size: 48px;">🐊</div>
                      <div style="color: #e53e3e; font-size: 18px; font-weight: bold; margin-top: 10px;">✗ Wrong!</div>
-                     <div style="color: #2d3748; font-size: 18px; margin-top: 10px;">Correct: <strong>${currentWord.word}${altText}</strong></div>`;
+                     <div style="color: #2d3748; font-size: 18px; margin-top: 10px;">Correct: <strong>${escapeHtml(currentWord.word)}${altText}</strong></div>`;
             }
             
             updateStats();
-            setTimeout(nextWord, 3000);
+            nextWordTimeout = setTimeout(nextWord, 3000);
         }
 
         function handleEnter(event) {
@@ -843,6 +870,8 @@
         }
 
         function stopPractice() {
+            if (nextWordTimeout) clearTimeout(nextWordTimeout);
+            isSpeaking = false;
             speechSynthesis.cancel();
             saveSession();
             
@@ -857,11 +886,11 @@
             
             if (wrongList.length > 0) {
                 document.getElementById('wrongAnswers').innerHTML = wrongList.map(item => {
-                    const altText = item.alternative ? ` or ${item.alternative}` : '';
+                    const altText = item.alternative ? ` or ${escapeHtml(item.alternative)}` : '';
                     return `<div class="result-item">
-                        <strong>${item.word}${altText}</strong>
-                        <div class="definition">${item.definition}</div>
-                        <div class="user-answer">Your answer: ${item.userAnswer || '(no answer)'}</div>
+                        <strong>${escapeHtml(item.word)}${altText}</strong>
+                        <div class="definition">${escapeHtml(item.definition)}</div>
+                        <div class="user-answer">Your answer: ${escapeHtml(item.userAnswer) || '(no answer)'}</div>
                     </div>`;
                 }).join('');
             } else {
@@ -892,21 +921,25 @@
             const chartHeight = height - padding * 2;
             
             // Find max word count for scaling
-            const maxWords = Math.max(...last10.map(s => s.total));
+            const maxWords = Math.max(...last10.map(s => s.total), 1);
             
             // Create points for accuracy line
-            const accuracyPoints = last10.map((s, i) => {
-                const x = last10.length === 1 ? width / 2 : padding + (i / (last10.length - 1)) * chartWidth;
-                const y = height - padding - (s.accuracy / 100) * chartHeight;
-                return `${x},${y}`;
-            }).join(' ');
+            const accuracyPoints = last10.length === 1 
+                ? `${padding},${height - padding - (last10[0].accuracy / 100) * chartHeight} ${width - padding},${height - padding - (last10[0].accuracy / 100) * chartHeight}`
+                : last10.map((s, i) => {
+                    const x = padding + (i / (last10.length - 1)) * chartWidth;
+                    const y = height - padding - (s.accuracy / 100) * chartHeight;
+                    return `${x},${y}`;
+                }).join(' ');
             
             // Create points for word count line
-            const wordPoints = last10.map((s, i) => {
-                const x = last10.length === 1 ? width / 2 : padding + (i / (last10.length - 1)) * chartWidth;
-                const y = height - padding - (s.total / maxWords) * chartHeight;
-                return `${x},${y}`;
-            }).join(' ');
+            const wordPoints = last10.length === 1
+                ? `${padding},${height - padding - (last10[0].total / maxWords) * chartHeight} ${width - padding},${height - padding - (last10[0].total / maxWords) * chartHeight}`
+                : last10.map((s, i) => {
+                    const x = padding + (i / (last10.length - 1)) * chartWidth;
+                    const y = height - padding - (s.total / maxWords) * chartHeight;
+                    return `${x},${y}`;
+                }).join(' ');
             
             // Create circles and labels for data points
             const circles = last10.map((s, i) => {
