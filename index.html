@@ -513,7 +513,7 @@
                 
                 <div class="btn-group">
                     <button class="btn-primary" id="submitBtn" onclick="checkAnswer()">Submit Answer</button>
-                    <button class="btn-success" onclick="pronounceWord()">Repeat Word</button>
+                    <button class="btn-success" id="repeatBtn" onclick="pronounceWord()">Repeat Word</button>
                     <button class="btn-secondary" onclick="stopPractice()">Stop Practice</button>
                 </div>
             </div>
@@ -789,6 +789,7 @@
             inputField.value = '';
             inputField.disabled = false;
             document.getElementById('submitBtn').disabled = false;
+            document.getElementById('repeatBtn').disabled = false;
             document.getElementById('wordDisplay').innerHTML = '<em>Listen to the word and definition...</em>';
             inputField.focus();
             pronounceWord();
@@ -798,6 +799,7 @@
             if (!window.speechSynthesis || !currentWord || isSpeaking) return;
             speechSynthesis.cancel();
             isSpeaking = true;
+            document.getElementById('repeatBtn').disabled = true;
             
             const utterance = new SpeechSynthesisUtterance(currentWord.word);
             utterance.rate = voiceSpeed;
@@ -809,7 +811,10 @@
                 defUtterance.onend = () => {
                     const finalUtterance = new SpeechSynthesisUtterance(currentWord.word);
                     finalUtterance.rate = voiceSpeed;
-                    finalUtterance.onend = () => { isSpeaking = false; };
+                    finalUtterance.onend = () => { 
+                        isSpeaking = false;
+                        document.getElementById('repeatBtn').disabled = false;
+                    };
                     speechSynthesis.speak(finalUtterance);
                 };
                 
@@ -837,6 +842,7 @@
             
             document.getElementById('userInput').disabled = true;
             document.getElementById('submitBtn').disabled = true;
+            document.getElementById('repeatBtn').disabled = true;
             
             const correctAnswer = currentWord.word.toLowerCase();
             const alternativeAnswer = currentWord.alternative ? currentWord.alternative.toLowerCase() : '';
