@@ -615,7 +615,7 @@
             const currentYear = new Date().getFullYear();
             const possibleFiles = [];
             for (let year = currentYear - 5; year <= currentYear + 5; year++) {
-                possibleFiles.push(`wordlist-${year}.csv`);
+                possibleFiles.push(`wordlist-${year}.json`);
             }
             
             let foundFiles = [];
@@ -632,7 +632,7 @@
                     document.getElementById('setup').innerHTML = 
                         `<div style="text-align: center; color: #e53e3e;">
                             <p style="font-size: 18px; margin-bottom: 10px;">❌ No wordlist files found</p>
-                            <p style="color: #718096;">Place CSV files in the 'wordlists' folder.</p>
+                            <p style="color: #718096;">Place JSON files in the 'wordlists' folder.</p>
                         </div>`;
                     return;
                 }
@@ -644,7 +644,7 @@
 
         function showFileSelection() {
             const options = wordlistFiles.map(file => 
-                `<option value="${file}">${file.replace('.csv', '').replace('wordlist-', 'Year ')}</option>`
+                `<option value="${file}">${file.replace('.json', '').replace('wordlist-', 'Year ')}</option>`
             ).join('');
             
             document.getElementById('setup').innerHTML = 
@@ -659,7 +659,7 @@
 
         function loadWordlist() {
             const selectedFile = document.getElementById('wordlistSelect').value;
-            currentWordlist = selectedFile.replace('.csv', '').replace('wordlist-', '');
+            currentWordlist = selectedFile.replace('.json', '').replace('wordlist-', '');
             document.getElementById('setup').innerHTML = 
                 `<div class="loading">
                     <div class="spinner"></div>
@@ -669,42 +669,15 @@
             fetch(`wordlists/${selectedFile}`)
                 .then(response => {
                     if (!response.ok) throw new Error('Could not load wordlist');
-                    return response.text();
+                    return response.json();
                 })
                 .then(data => {
-                    const lines = data.trim().split('\n');
-                    lines.shift();
-                    
-                    words = lines.map(line => {
-                        const parts = [];
-                        let current = '';
-                        let inQuotes = false;
-                        
-                        for (let i = 0; i < line.length; i++) {
-                            const char = line[i];
-                            if (char === '"' && line[i + 1] === '"') {
-                                current += '"';
-                                i++;
-                            } else if (char === '"') {
-                                inQuotes = !inQuotes;
-                            } else if (char === ',' && !inQuotes) {
-                                parts.push(current.trim());
-                                current = '';
-                            } else {
-                                current += char;
-                            }
-                        }
-                        parts.push(current.trim());
-                        
-                        if (parts.length < 2 || !parts[1]) return null;
-                        
-                        return {
-                            word: parts[1].trim(),
-                            partOfSpeech: parts[2]?.trim() || '',
-                            definition: parts[3]?.trim() || 'No definition provided',
-                            alternative: parts[4]?.replace(/"/g, '').trim() || ''
-                        };
-                    }).filter(w => w);
+                    words = data.map(item => ({
+                        word: item.word,
+                        partOfSpeech: item.partOfSpeech || '',
+                        definition: item.definition || 'No definition provided',
+                        alternatives: item.alternatives || []
+                    }));
                     
                     if (words.length === 0) throw new Error('No valid words found');
                     
@@ -845,10 +818,10 @@
             document.getElementById('repeatBtn').disabled = true;
             
             const correctAnswer = currentWord.word.toLowerCase();
-            const alternativeAnswer = currentWord.alternative ? currentWord.alternative.toLowerCase() : '';
+            const alternativeAnswers = currentWord.alternatives.map(alt => alt.toLowerCase());
             total++;
             
-            if (userAnswer === correctAnswer || (alternativeAnswer && userAnswer === alternativeAnswer)) {
+            if (userAnswer === correctAnswer || alternativeAnswers.includes(userAnswer)) {
                 correct++;
                 document.getElementById('wordDisplay').innerHTML = 
                     `<div style="font-size: 48px;">🐹</div>
@@ -858,9 +831,9 @@
                     word: currentWord.word,
                     definition: currentWord.definition,
                     userAnswer: userAnswer,
-                    alternative: currentWord.alternative
+                    alternatives: currentWord.alternatives
                 });
-                const altText = currentWord.alternative ? ` or ${escapeHtml(currentWord.alternative)}` : '';
+                const altText = currentWord.alternatives.length > 0 ? ` or ${currentWord.alternatives.map(a => escapeHtml(a)).join(' or ')}` : '';
                 document.getElementById('wordDisplay').innerHTML = 
                     `<div style="font-size: 48px;">🐊</div>
                      <div style="color: #e53e3e; font-size: 18px; font-weight: bold; margin-top: 10px;">✗ Wrong!</div>
@@ -892,7 +865,7 @@
             
             if (wrongList.length > 0) {
                 document.getElementById('wrongAnswers').innerHTML = wrongList.map(item => {
-                    const altText = item.alternative ? ` or ${escapeHtml(item.alternative)}` : '';
+                    const altText = item.alternatives && item.alternatives.length > 0 ? ` or ${item.alternatives.map(a => escapeHtml(a)).join(' or ')}` : '';
                     return `<div class="result-item">
                         <strong>${escapeHtml(item.word)}${altText}</strong>
                         <div class="definition">${escapeHtml(item.definition)}</div>
