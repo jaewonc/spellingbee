@@ -1,3179 +1,3162 @@
 [
   {
     "number": 1,
-    "word": "sky",
+    "word": "tag",
     "partOfSpeech": "noun",
-    "definition": "the space surrounding the earth.",
+    "definition": "a game in which one player chases the others and tries to touch one to make them it.",
     "alternatives": []
   },
   {
     "number": 2,
-    "word": "wow",
-    "partOfSpeech": "interjection",
-    "definition": "— used as an exclamation of happiness, surprise, or strong feeling.",
+    "word": "send",
+    "partOfSpeech": "verb",
+    "definition": "to cause to go or be conveyed to another person or place.",
     "alternatives": []
   },
   {
     "number": 3,
-    "word": "hug",
-    "partOfSpeech": "verb",
-    "definition": "to put one's arms around and press tightly.",
+    "word": "deck",
+    "partOfSpeech": "noun",
+    "definition": "a flat structure that is built next to a house and that has no roof or walls.",
     "alternatives": []
   },
   {
     "number": 4,
-    "word": "snap",
+    "word": "stuck",
     "partOfSpeech": "verb",
-    "definition": "to break apart or into pieces.",
+    "definition": "attached by or as if by gluing or plastering.",
     "alternatives": []
   },
   {
     "number": 5,
-    "word": "tape",
-    "partOfSpeech": "noun",
-    "definition": "a narrow strip of material coated on one side with a sticky mixture and used for many purposes.",
+    "word": "snug",
+    "partOfSpeech": "adjective",
+    "definition": "at rest, warmly covered, and safe from cold.",
     "alternatives": []
   },
   {
     "number": 6,
-    "word": "sips",
-    "partOfSpeech": "plural noun",
-    "definition": "small tastes of a drink.",
+    "word": "fish",
+    "partOfSpeech": "noun",
+    "definition": "a cold-blooded animal that lives in the water and that has a spine, gills, and usually fins.",
     "alternatives": []
   },
   {
     "number": 7,
-    "word": "hard",
-    "partOfSpeech": "adjective",
-    "definition": "not easy.",
+    "word": "hold",
+    "partOfSpeech": "verb",
+    "definition": "to keep back : to not loose : to not let go.",
     "alternatives": []
   },
   {
     "number": 8,
-    "word": "why",
-    "partOfSpeech": "adverb",
-    "definition": "for what cause or reason.",
+    "word": "mind",
+    "partOfSpeech": "verb",
+    "definition": "to become concerned or troubled : to care, worry.",
     "alternatives": []
   },
   {
     "number": 9,
-    "word": "first",
-    "partOfSpeech": "adjective",
-    "definition": "being number one in a series.",
+    "word": "stay",
+    "partOfSpeech": "verb",
+    "definition": "to remain somewhere or with someone instead of leaving.",
     "alternatives": []
   },
   {
     "number": 10,
-    "word": "tide",
-    "partOfSpeech": "noun",
-    "definition": "the rising and falling of the surface of the ocean and other water bodies caused by gravity.",
+    "word": "scrub",
+    "partOfSpeech": "verb",
+    "definition": "to clean with a rubbing action (as by using a stiff brush).",
     "alternatives": []
   },
   {
     "number": 11,
-    "word": "bow",
-    "partOfSpeech": "noun",
-    "definition": "a knot formed by doubling a string into two loops which can be drawn through the knot to untie it.",
+    "word": "draw",
+    "partOfSpeech": "verb",
+    "definition": "to make lines with a pen, a pencil, or another tool in order to create a picture.",
     "alternatives": []
   },
   {
     "number": 12,
-    "word": "back",
-    "partOfSpeech": "noun",
-    "definition": "the rear part of the human body extending from the neck to the end of the spine.",
+    "word": "brown",
+    "partOfSpeech": "adjective",
+    "definition": "of a color between red and yellow in hue, of medium to low lightness, and of moderate to low saturation.",
     "alternatives": []
   },
   {
     "number": 13,
-    "word": "find",
-    "partOfSpeech": "verb",
-    "definition": "to come upon (something) by looking carefully.",
-    "alternatives": []
+    "word": "cozy",
+    "partOfSpeech": "adjective",
+    "definition": "suggesting warmth and homey ease often within smallish or compact quarters.",
+    "alternatives": [
+      "cosy"
+    ]
   },
   {
     "number": 14,
-    "word": "name",
+    "word": "tint",
     "partOfSpeech": "noun",
-    "definition": "a specific word or phrase that is used to refer to a person or thing.",
+    "definition": "a usually slight or pale coloration.",
     "alternatives": []
   },
   {
     "number": 15,
-    "word": "oops",
-    "partOfSpeech": "interjection",
-    "definition": "— used to express mild apology, surprise, or dismay.",
+    "word": "milk",
+    "partOfSpeech": "noun",
+    "definition": "a white or yellowish fluid produced by female mammals for the nourishment of their young.",
     "alternatives": []
   },
   {
     "number": 16,
-    "word": "more",
-    "partOfSpeech": "adjective",
-    "definition": "additional.",
+    "word": "yawn",
+    "partOfSpeech": "verb",
+    "definition": "to take a deep breath with your mouth wide open usually because you’re bored or tired.",
     "alternatives": []
   },
   {
     "number": 17,
-    "word": "toss",
-    "partOfSpeech": "verb",
-    "definition": "to throw gently often with an underhand motion.",
+    "word": "tank",
+    "partOfSpeech": "noun",
+    "definition": "a large container for holding liquid.",
     "alternatives": []
   },
   {
     "number": 18,
-    "word": "chin",
-    "partOfSpeech": "noun",
-    "definition": "the lower portion of the face lying below the lower lip.",
+    "word": "want",
+    "partOfSpeech": "verb",
+    "definition": "to desire or wish for something.",
     "alternatives": []
   },
   {
     "number": 19,
-    "word": "park",
+    "word": "crowd",
     "partOfSpeech": "noun",
-    "definition": "a piece of land maintained by a city or town as a place of beauty or play.",
+    "definition": "a large number of people especially when condensed into a compact group without order.",
     "alternatives": []
   },
   {
     "number": 20,
-    "word": "bike",
-    "partOfSpeech": "verb",
-    "definition": "to ride a vehicle that has two wheels one behind the other, a steering handle, and a seat and usually moves by the action of the rider's feet upon pedals.",
+    "word": "pond",
+    "partOfSpeech": "noun",
+    "definition": "a body of water that is smaller than a lake but larger than a pool, and that either occurs naturally or is confined through man-made means.",
     "alternatives": []
   },
   {
     "number": 21,
-    "word": "nest",
+    "word": "skirt",
     "partOfSpeech": "noun",
-    "definition": "the place a bird builds for laying eggs and caring for its young.",
+    "definition": "the part of an outer garment extending from the waist down that has a free hanging lower edge.",
     "alternatives": []
   },
   {
     "number": 22,
-    "word": "rude",
-    "partOfSpeech": "adjective",
-    "definition": "offensive in manner or action : lacking courtesy or good manners.",
+    "word": "sharks",
+    "partOfSpeech": "plural noun",
+    "definition": "fishes that are usually of medium or large size and that may be active predators or sluggish bottom dwellers.",
     "alternatives": []
   },
   {
     "number": 23,
-    "word": "deal",
+    "word": "quilt",
     "partOfSpeech": "noun",
-    "definition": "an offering of a combination of products at a special price.",
+    "definition": "a bed covering made of two layers of cloth and having a filling of wool, cotton, or down held in place by stitched designs.",
     "alternatives": []
   },
   {
     "number": 24,
-    "word": "store",
-    "partOfSpeech": "noun",
-    "definition": "a place where things are available to buy.",
+    "word": "twigs",
+    "partOfSpeech": "plural noun",
+    "definition": "small shoots or branches usually without leaves.",
     "alternatives": []
   },
   {
     "number": 25,
-    "word": "roads",
-    "partOfSpeech": "plural noun",
-    "definition": "the parts of streets over which cars and other traffic move.",
+    "word": "taffy",
+    "partOfSpeech": "noun",
+    "definition": "a candy made usually of molasses or brown sugar boiled until caramelized and pulled until porous and light-colored.",
     "alternatives": []
   },
   {
     "number": 26,
-    "word": "cool",
+    "word": "comfy",
     "partOfSpeech": "adjective",
-    "definition": "moderately cold : lacking in warmth.",
+    "definition": "giving or promising physical ease, pleasurable feeling, or cheerful well-being.",
     "alternatives": []
   },
   {
     "number": 27,
-    "word": "wake",
+    "word": "stretch",
     "partOfSpeech": "verb",
-    "definition": "to rouse from sleep.",
+    "definition": "to reach out : to extend.",
     "alternatives": []
   },
   {
     "number": 28,
-    "word": "vase",
-    "partOfSpeech": "noun",
-    "definition": "a vessel that is used most often for decoration or for flowers.",
+    "word": "tight",
+    "partOfSpeech": "adjective",
+    "definition": "fitting closely and usually too closely.",
     "alternatives": []
   },
   {
     "number": 29,
-    "word": "tune",
+    "word": "candy",
     "partOfSpeech": "noun",
-    "definition": "a musical composition.",
+    "definition": "a sweet food made with sugar and often flavoring (such as chocolate) and filling.",
     "alternatives": []
   },
   {
     "number": 30,
-    "word": "coat",
-    "partOfSpeech": "noun",
-    "definition": "an outer garment usually with long sleeves, a collar, and a front opening and that varies in length and style according to fashion and use.",
+    "word": "scrunch",
+    "partOfSpeech": "verb",
+    "definition": "to squeeze together.",
     "alternatives": []
   },
   {
     "number": 31,
-    "word": "four",
-    "partOfSpeech": "adjective",
-    "definition": "being one more than three in number.",
+    "word": "ruby",
+    "partOfSpeech": "noun",
+    "definition": "a valuable red gemstone.",
     "alternatives": []
   },
   {
     "number": 32,
-    "word": "block",
-    "partOfSpeech": "noun",
-    "definition": "a toy made of wood or plastic that is usually a cube and is used for building.",
+    "word": "close",
+    "partOfSpeech": "verb",
+    "definition": "to block or shut off against entry or passage.",
     "alternatives": []
   },
   {
     "number": 33,
-    "word": "heap",
-    "partOfSpeech": "noun",
-    "definition": "a pile.",
+    "word": "tackle",
+    "partOfSpeech": "verb",
+    "definition": "to come to grips with : to take on.",
     "alternatives": []
   },
   {
     "number": 34,
-    "word": "ladder",
+    "word": "wire",
     "partOfSpeech": "noun",
-    "definition": "a usually portable structure for use in climbing up or down that consists of two parallel sidepieces joined by a series of crosspieces that serve as rests for the feet.",
+    "definition": "metal in the form of a usually very flexible thread.",
     "alternatives": []
   },
   {
     "number": 35,
-    "word": "tug",
-    "partOfSpeech": "verb",
-    "definition": "to pull hard.",
+    "word": "skater",
+    "partOfSpeech": "noun",
+    "definition": "one that glides along on a short board mounted on small wheels propelled by the alternate action of the legs.",
     "alternatives": []
   },
   {
     "number": 36,
-    "word": "spoon",
-    "partOfSpeech": "noun",
-    "definition": "an eating or cooking implement consisting of a small shallow bowl with a handle.",
+    "word": "giant",
+    "partOfSpeech": "adjective",
+    "definition": "extremely large.",
     "alternatives": []
   },
   {
     "number": 37,
-    "word": "spark",
+    "word": "bucket",
     "partOfSpeech": "noun",
-    "definition": "a small particle of a burning substance.",
+    "definition": "a typically round and wooden vessel for drawing up water from a well.",
     "alternatives": []
   },
   {
     "number": 38,
-    "word": "later",
-    "partOfSpeech": "adverb",
-    "definition": "at some time after a given time : afterward.",
+    "word": "chance",
+    "partOfSpeech": "noun",
+    "definition": "opportunity.",
     "alternatives": []
   },
   {
     "number": 39,
-    "word": "hair",
-    "partOfSpeech": "noun",
-    "definition": "the coating of individual slender threadlike fibers on a human head.",
+    "word": "baskets",
+    "partOfSpeech": "plural noun",
+    "definition": "lightweight containers in which berries, fruits, or vegetables are packed, shipped, or sold.",
     "alternatives": []
   },
   {
     "number": 40,
-    "word": "open",
-    "partOfSpeech": "verb",
-    "definition": "to move (as a door or lid) from its shut position.",
+    "word": "tender",
+    "partOfSpeech": "adjective",
+    "definition": "easily broken, cut, or hurt: not hard or tough.",
     "alternatives": []
   },
   {
     "number": 41,
-    "word": "this",
-    "partOfSpeech": "pronoun",
-    "definition": "the person or thing that is present or that has just been mentioned.",
+    "word": "paste",
+    "partOfSpeech": "verb",
+    "definition": "to stick things together using a substance made for this purpose.",
     "alternatives": []
   },
   {
     "number": 42,
-    "word": "his",
-    "partOfSpeech": "adjective",
-    "definition": "relating to him as possessor or owner.",
+    "word": "melon",
+    "partOfSpeech": "noun",
+    "definition": "either of two soft-fleshed sweet-flavored gourds that are usually eaten raw as a fruit.",
     "alternatives": []
   },
   {
     "number": 43,
-    "word": "May",
+    "word": "farmer",
     "partOfSpeech": "noun",
-    "definition": "the fifth month of the calendar.",
+    "definition": "a person who grows crops such as fruits or vegetables, or raises livestock such as cows or pigs.",
     "alternatives": []
   },
   {
     "number": 44,
-    "word": "grid",
+    "word": "parent",
     "partOfSpeech": "noun",
-    "definition": "a network of uniformly spaced horizontal and perpendicular lines.",
+    "definition": "a father or mother or one who acts as such.",
     "alternatives": []
   },
   {
     "number": 45,
-    "word": "wag",
-    "partOfSpeech": "verb",
-    "definition": "to move the tail to and fro or up and down.",
+    "word": "tail",
+    "partOfSpeech": "noun",
+    "definition": "a thin extension of the body that comes out of the back area of many mammals.",
     "alternatives": []
   },
   {
     "number": 46,
-    "word": "near",
-    "partOfSpeech": "preposition",
-    "definition": "close to.",
+    "word": "hockey",
+    "partOfSpeech": "noun",
+    "definition": "a game played on an ice rink by two teams of six players on skates whose object is to direct a puck into the opponents’ goal with a curved stick.",
     "alternatives": []
   },
   {
     "number": 47,
-    "word": "zip",
-    "partOfSpeech": "verb",
-    "definition": "to move or act with speed and usually with force, vigor, or enthusiasm.",
+    "word": "slime",
+    "partOfSpeech": "noun",
+    "definition": "a gluey substance.",
     "alternatives": []
   },
   {
     "number": 48,
-    "word": "rug",
-    "partOfSpeech": "noun",
-    "definition": "a piece of thick heavy fabric that is used to cover part of a floor.",
+    "word": "insects",
+    "partOfSpeech": "plural noun",
+    "definition": "small invertebrate animals that are more or less obviously segmented (such as spiders, mites, ticks, centipedes, sowbugs).",
     "alternatives": []
   },
   {
     "number": 49,
-    "word": "dots",
+    "word": "teeth",
     "partOfSpeech": "plural noun",
-    "definition": "small round marks made on a surface with a pointed instrument.",
+    "definition": "the hard bony parts attached to the jaws in the walls of the mouth that serve especially for the seizing and chewing of food.",
     "alternatives": []
   },
   {
     "number": 50,
-    "word": "pat",
-    "partOfSpeech": "verb",
-    "definition": "to stroke or tap gently with the hand.",
+    "word": "shortcut",
+    "partOfSpeech": "noun",
+    "definition": "a route more direct or more quickly traveled than the one ordinarily taken.",
     "alternatives": []
   },
   {
     "number": 51,
-    "word": "pole",
+    "word": "bait",
     "partOfSpeech": "noun",
-    "definition": "an upright column to the top of which something is attached or by which something is supported.",
+    "definition": "an enticement used to attract fish or other animals (as to a hook or trap) so that they can be caught.",
     "alternatives": []
   },
   {
     "number": 52,
-    "word": "snake",
-    "partOfSpeech": "noun",
-    "definition": "a scaly limbless reptile that lays eggs and has a very elongated body, a forked tongue, and is sometimes venomous.",
+    "word": "lure",
+    "partOfSpeech": "verb",
+    "definition": "to attract : to entice.",
     "alternatives": []
   },
   {
     "number": 53,
-    "word": "mound",
+    "word": "cluster",
     "partOfSpeech": "noun",
-    "definition": "a small, rounded mass.",
+    "definition": "a number of similar things grouped together.",
     "alternatives": []
   },
   {
     "number": 54,
-    "word": "smaller",
-    "partOfSpeech": "adjective",
-    "definition": "of less size, quality, or significance.",
+    "word": "forest",
+    "partOfSpeech": "noun",
+    "definition": "a large area of land covered with lots of trees, shrubs and bushes.",
     "alternatives": []
   },
   {
     "number": 55,
-    "word": "grand",
+    "word": "hollow",
     "partOfSpeech": "adjective",
-    "definition": "of large size, value, or consequence : great.",
+    "definition": "having an empty space or cavity within : not solid.",
     "alternatives": []
   },
   {
     "number": 56,
-    "word": "gross",
-    "partOfSpeech": "adjective",
-    "definition": "disgusting or distasteful.",
+    "word": "spinning",
+    "partOfSpeech": "verb",
+    "definition": "revolving or whirling rapidly.",
     "alternatives": []
   },
   {
     "number": 57,
-    "word": "wish",
-    "partOfSpeech": "verb",
-    "definition": "to have a desire for : to want, to crave.",
+    "word": "baffling",
+    "partOfSpeech": "adjective",
+    "definition": "perplexing : confusing.",
     "alternatives": []
   },
   {
     "number": 58,
-    "word": "stove",
-    "partOfSpeech": "noun",
-    "definition": "a device that burns fuel or uses electricity to produce heat for cooking.",
+    "word": "sizzling",
+    "partOfSpeech": "adjective",
+    "definition": "making a hissing sound.",
     "alternatives": []
   },
   {
     "number": 59,
-    "word": "join",
+    "word": "hoist",
     "partOfSpeech": "verb",
-    "definition": "become a member or associate of.",
+    "definition": "to raise : to lift.",
     "alternatives": []
   },
   {
     "number": 60,
-    "word": "state",
-    "partOfSpeech": "verb",
-    "definition": "to put into words : to phrase.",
+    "word": "search",
+    "partOfSpeech": "noun",
+    "definition": "an endeavor to find, recover, or bring into view.",
     "alternatives": []
   },
   {
     "number": 61,
-    "word": "enter",
+    "word": "remind",
     "partOfSpeech": "verb",
-    "definition": "to come or go into.",
+    "definition": "to cause to remember.",
     "alternatives": []
   },
   {
     "number": 62,
-    "word": "blank",
-    "partOfSpeech": "adjective",
-    "definition": "free from writing or marks.",
+    "word": "mango",
+    "partOfSpeech": "noun",
+    "definition": "a yellowish red oblong to pear-shaped tropical fruit that has a firm skin and hard central stone.",
     "alternatives": []
   },
   {
     "number": 63,
-    "word": "give",
-    "partOfSpeech": "verb",
-    "definition": "to make a present of.",
+    "word": "coral",
+    "partOfSpeech": "adjective",
+    "definition": "of a variable color averaging a deep pink with yellow.",
     "alternatives": []
   },
   {
     "number": 64,
-    "word": "other",
-    "partOfSpeech": "adjective",
-    "definition": "not the same : different.",
+    "word": "jangle",
+    "partOfSpeech": "verb",
+    "definition": "to cause to sound harshly or inharmoniously.",
     "alternatives": []
   },
   {
     "number": 65,
-    "word": "bedroom",
-    "partOfSpeech": "noun",
-    "definition": "a walled space in a building intended primarily for sleeping.",
+    "word": "shimmer",
+    "partOfSpeech": "verb",
+    "definition": "to shine with a tremulous or fitful light : to gleam faintly.",
     "alternatives": []
   },
   {
     "number": 66,
-    "word": "branch",
-    "partOfSpeech": "noun",
-    "definition": "a stem growing from the trunk or from a limb of a tree.",
+    "word": "blossoms",
+    "partOfSpeech": "plural noun",
+    "definition": "the usually colorful flowers of a seed plant.",
     "alternatives": []
   },
   {
     "number": 67,
-    "word": "letter",
-    "partOfSpeech": "noun",
-    "definition": "a written or printed message intended to be read only by the person or organization to whom it is addressed.",
+    "word": "swampy",
+    "partOfSpeech": "adjective",
+    "definition": "water-logged and poorly drained.",
     "alternatives": []
   },
   {
     "number": 68,
-    "word": "spring",
-    "partOfSpeech": "noun",
-    "definition": "the season between winter and summer.",
+    "word": "studded",
+    "partOfSpeech": "adjective",
+    "definition": "adorned, covered, or protected with solid buttons.",
     "alternatives": []
   },
   {
     "number": 69,
-    "word": "dance",
+    "word": "focus",
     "partOfSpeech": "verb",
-    "definition": "to perform a series of steps and movements, usually to music.",
+    "definition": "to concentrate attention or effort.",
     "alternatives": []
   },
   {
     "number": 70,
-    "word": "front",
+    "word": "distress",
     "partOfSpeech": "noun",
-    "definition": "the part of something that seems to look out or be directed forward.",
+    "definition": "pain, suffering : anguish of body or mind.",
     "alternatives": []
   },
   {
     "number": 71,
-    "word": "roast",
-    "partOfSpeech": "verb",
-    "definition": "to cook by exposure to radiant heat before a fire or in an oven.",
+    "word": "lessons",
+    "partOfSpeech": "plural noun",
+    "definition": "classes taught on a single subject.",
     "alternatives": []
   },
   {
     "number": 72,
-    "word": "brave",
-    "partOfSpeech": "adjective",
-    "definition": "able to meet danger or endure pain or hardship without giving in to fear.",
+    "word": "moment",
+    "partOfSpeech": "noun",
+    "definition": "a point of time : an instant.",
     "alternatives": []
   },
   {
     "number": 73,
-    "word": "bright",
-    "partOfSpeech": "adjective",
-    "definition": "marked by shining or radiating light.",
+    "word": "ajar",
+    "partOfSpeech": "adverb",
+    "definition": "slightly open.",
     "alternatives": []
   },
   {
     "number": 74,
-    "word": "scream",
-    "partOfSpeech": "verb",
-    "definition": "to voice a sudden sharp loud cry.",
+    "word": "basil",
+    "partOfSpeech": "noun",
+    "definition": "the dried or fresh leaves of an aromatic of the mint family that is used especially as a seasoning.",
     "alternatives": []
   },
   {
     "number": 75,
-    "word": "river",
-    "partOfSpeech": "noun",
-    "definition": "a large natural stream of water.",
+    "word": "triple",
+    "partOfSpeech": "adjective",
+    "definition": "being three times as much or as great or as many.",
     "alternatives": []
   },
   {
     "number": 76,
-    "word": "bride",
+    "word": "satin",
     "partOfSpeech": "noun",
-    "definition": "a woman newly married or about to be married.",
+    "definition": "a smooth fabric with a shiny front and dull back.",
     "alternatives": []
   },
   {
     "number": 77,
-    "word": "stall",
-    "partOfSpeech": "noun",
-    "definition": "a division of a stable or barn accommodating one animal.",
+    "word": "ahoy",
+    "partOfSpeech": "interjection",
+    "definition": "— used in greeting or beckoning by calling to.",
     "alternatives": []
   },
   {
     "number": 78,
-    "word": "point",
-    "partOfSpeech": "verb",
-    "definition": "to indicate the position or direction of something especially by extending a finger toward the thing so indicated.",
+    "word": "signal",
+    "partOfSpeech": "noun",
+    "definition": "a sound or gesture made to give notice.",
     "alternatives": []
   },
   {
     "number": 79,
-    "word": "wedding",
+    "word": "answer",
     "partOfSpeech": "noun",
-    "definition": "the marriage ceremony usually with its accompanying festivities.",
+    "definition": "something spoken or written in reply : a response to a question, call, summons, or appeal.",
     "alternatives": []
   },
   {
     "number": 80,
-    "word": "little",
-    "partOfSpeech": "adjective",
-    "definition": "small in size: tiny.",
+    "word": "shuffle",
+    "partOfSpeech": "verb",
+    "definition": "to slide the feet back and forth without lifting them.",
     "alternatives": []
   },
   {
     "number": 81,
-    "word": "doctor",
+    "word": "dollop",
     "partOfSpeech": "noun",
-    "definition": "a person who practices medicine, dentistry, or veterinary medicine.",
+    "definition": "a lump or blob of something semiliquid or mushy.",
     "alternatives": []
   },
   {
     "number": 82,
-    "word": "peel",
-    "partOfSpeech": "verb",
-    "definition": "to strip off the outer layer of.",
+    "word": "minnows",
+    "partOfSpeech": "plural noun",
+    "definition": "small fish common in gravelly streams and attaining a length of about three inches maximum.",
     "alternatives": []
   },
   {
     "number": 83,
-    "word": "snack",
+    "word": "silver",
     "partOfSpeech": "noun",
-    "definition": "a small amount of food usually eaten between meals.",
+    "definition": "a white metallic element that is very easy to shape and is used to make coins, silverware, jewelry and other items.",
     "alternatives": []
   },
   {
     "number": 84,
-    "word": "notebook",
-    "partOfSpeech": "noun",
-    "definition": "a collection of blank sheets fastened together along one edge and used by students during a class or lecture.",
+    "word": "before",
+    "partOfSpeech": "adverb",
+    "definition": "earlier than.",
     "alternatives": []
   },
   {
     "number": 85,
-    "word": "brain",
+    "word": "circus",
     "partOfSpeech": "noun",
-    "definition": "the portion of the central nervous system in vertebrates that makes up the organ of thought.",
+    "definition": "a spectacular public entertainment given usually in a large tent and made up of acts of physical skill and daring and comedy by clowns.",
     "alternatives": []
   },
   {
     "number": 86,
-    "word": "pride",
-    "partOfSpeech": "noun",
-    "definition": "a sense of delight or joy arising from some act or possession.",
+    "word": "writing",
+    "partOfSpeech": "adjective",
+    "definition": "of, relating to, or used in or for the act or art of forming letters on a suitable medium to communicate the ideas which characters and words express.",
     "alternatives": []
   },
   {
     "number": 87,
-    "word": "dear",
+    "word": "kitchen",
     "partOfSpeech": "noun",
-    "definition": "a beloved person.",
+    "definition": "a place (such as a room) with cooking facilities.",
     "alternatives": []
   },
   {
     "number": 88,
-    "word": "live",
-    "partOfSpeech": "adjective",
-    "definition": "not dead.",
+    "word": "sugar",
+    "partOfSpeech": "noun",
+    "definition": "a sweet crystallizable substance that consists entirely or essentially of sucrose and that is colorless or white when pure.",
     "alternatives": []
   },
   {
     "number": 89,
-    "word": "tubes",
-    "partOfSpeech": "plural noun",
-    "definition": "collapsible cylindrical metal containers from which paste is dispensed by squeezing.",
+    "word": "awkward",
+    "partOfSpeech": "adjective",
+    "definition": "lacking dexterity or skill especially in the use of the hands or of instruments : clumsy.",
     "alternatives": []
   },
   {
     "number": 90,
-    "word": "cloth",
-    "partOfSpeech": "noun",
-    "definition": "something made by weaving or knitting natural or synthetic fibers.",
+    "word": "seep",
+    "partOfSpeech": "verb",
+    "definition": "to flow or pass slowly through fine pores or small openings : to ooze.",
     "alternatives": []
   },
   {
     "number": 91,
-    "word": "gazed",
-    "partOfSpeech": "verb",
-    "definition": "fixed the eyes in a steady and intent look.",
+    "word": "sweet",
+    "partOfSpeech": "adjective",
+    "definition": "marked by or arising from graciousness, kindness, or sympathy.",
     "alternatives": []
   },
   {
     "number": 92,
-    "word": "mile",
-    "partOfSpeech": "noun",
-    "definition": "a unit of distance equal to 5,280 feet.",
+    "word": "wheels",
+    "partOfSpeech": "plural noun",
+    "definition": "round frames that attach to a shaft on which they turn.",
     "alternatives": []
   },
   {
     "number": 93,
-    "word": "float",
-    "partOfSpeech": "verb",
-    "definition": "to rest on or partly under the surface of a liquid.",
+    "word": "faint",
+    "partOfSpeech": "adjective",
+    "definition": "feeble, dizzy, and likely to pass out due to hunger, illness, pain, shock or emotion.",
     "alternatives": []
   },
   {
     "number": 94,
-    "word": "snail",
+    "word": "fruit",
     "partOfSpeech": "noun",
-    "definition": "a slow-moving animal with a soft body, a shell on its back, and no legs.",
+    "definition": "the reproductive body of a seed plant having an edible more or less sweet pulp associated with the seed.",
     "alternatives": []
   },
   {
     "number": 95,
-    "word": "second",
-    "partOfSpeech": "adjective",
-    "definition": "next to the first in place or time.",
+    "word": "roam",
+    "partOfSpeech": "verb",
+    "definition": "to go from place to place without a specific purpose or direction : rove, wander.",
     "alternatives": []
   },
   {
     "number": 96,
-    "word": "drew",
-    "partOfSpeech": "verb",
-    "definition": "produced by or as if by tracing a pen or other instrument over a surface.",
+    "word": "goats",
+    "partOfSpeech": "plural noun",
+    "definition": "agile hollow-horned ruminant mammals long domesticated for their milk, wool, and flesh.",
     "alternatives": []
   },
   {
     "number": 97,
-    "word": "stood",
-    "partOfSpeech": "verb",
-    "definition": "rose to an upright position.",
+    "word": "woozy",
+    "partOfSpeech": "adjective",
+    "definition": "affected with dizziness, mild nausea, or weakness.",
     "alternatives": []
   },
   {
     "number": 98,
-    "word": "nagged",
-    "partOfSpeech": "verb",
-    "definition": "annoyed by persistent petty faultfinding, scolding, or urging.",
+    "word": "limbs",
+    "partOfSpeech": "plural noun",
+    "definition": "legs or arms of a human being.",
     "alternatives": []
   },
   {
     "number": 99,
-    "word": "scan",
-    "partOfSpeech": "verb",
-    "definition": "to make a close examination of a small area.",
+    "word": "ahead",
+    "partOfSpeech": "adverb",
+    "definition": "farther in the direction in which a person or thing is going.",
     "alternatives": []
   },
   {
     "number": 100,
-    "word": "glue",
+    "word": "señor",
     "partOfSpeech": "noun",
-    "definition": "any of various substances that bond materials together.",
+    "definition": "mister — used as a title of courtesy prefixed to the name of a Spanish or Spanish-speaking man.",
     "alternatives": []
   },
   {
     "number": 101,
-    "word": "ground",
+    "word": "unicorn",
     "partOfSpeech": "noun",
-    "definition": "the surface of the earth.",
+    "definition": "an imaginary animal that has the body of a horse, the back legs of a stag, the tail of a lion and a single horn in the middle of its head.",
     "alternatives": []
   },
   {
     "number": 102,
-    "word": "shower",
-    "partOfSpeech": "noun",
-    "definition": "a fall of rain that is of short duration or rapidly varying intensity over a limited area.",
+    "word": "faraway",
+    "partOfSpeech": "adjective",
+    "definition": "distant in space.",
     "alternatives": []
   },
   {
     "number": 103,
-    "word": "endless",
-    "partOfSpeech": "adjective",
-    "definition": "boundless : infinite.",
+    "word": "heater",
+    "partOfSpeech": "noun",
+    "definition": "a device that gives off warmth.",
     "alternatives": []
   },
   {
     "number": 104,
-    "word": "plunger",
-    "partOfSpeech": "noun",
-    "definition": "a device that works by being thrust quickly and forcibly into a liquid or other medium.",
+    "word": "pirates",
+    "partOfSpeech": "plural noun",
+    "definition": "robbers on the high seas.",
     "alternatives": []
   },
   {
     "number": 105,
-    "word": "fireworks",
-    "partOfSpeech": "plural noun",
-    "definition": "a display or exhibition of devices for producing a striking display (as of light) by the burning of explosive materials.",
+    "word": "understand",
+    "partOfSpeech": "verb",
+    "definition": "to comprehend.",
     "alternatives": []
   },
   {
     "number": 106,
-    "word": "dazzle",
-    "partOfSpeech": "verb",
-    "definition": "to impress deeply, overpower, or stupefy with brilliance.",
+    "word": "wooden",
+    "partOfSpeech": "adjective",
+    "definition": "lacking in ease, grace, charm, liveliness, lifelikeness, interest, or zest : awkward, clumsy, dry, lifeless, dull.",
     "alternatives": []
   },
   {
     "number": 107,
-    "word": "climb",
+    "word": "leaning",
     "partOfSpeech": "verb",
-    "definition": "to get to the top of or go over typically with some effort.",
+    "definition": "casting one’s weight by inclining or bearing down to one side.",
     "alternatives": []
   },
   {
     "number": 108,
-    "word": "April",
+    "word": "breakfast",
     "partOfSpeech": "noun",
-    "definition": "the fourth month of the year.",
+    "definition": "the first meal of the day.",
     "alternatives": []
   },
   {
     "number": 109,
-    "word": "subway",
+    "word": "window",
     "partOfSpeech": "noun",
-    "definition": "a train built partly or entirely underground for local transit in metropolitan areas.",
+    "definition": "an opening in a wall or door that usually contains a sheet of glass and that allows light and air in and permits viewing.",
     "alternatives": []
   },
   {
     "number": 110,
-    "word": "broken",
-    "partOfSpeech": "adjective",
-    "definition": "not working properly.",
+    "word": "acrobat",
+    "partOfSpeech": "noun",
+    "definition": "one who performs gymnastic feats or exercises.",
     "alternatives": []
   },
   {
     "number": 111,
-    "word": "stew",
+    "word": "message",
     "partOfSpeech": "noun",
-    "definition": "a combination of fish or meat usually with vegetables prepared by cooking in a little liquid without boiling.",
+    "definition": "a written or oral communication or other transmitted information sent by messenger or by some other means (as by signals).",
     "alternatives": []
   },
   {
     "number": 112,
-    "word": "shall",
-    "partOfSpeech": "verb",
-    "definition": "— used to express what is inevitable or what seems likely to happen in the future.",
+    "word": "chocolate",
+    "partOfSpeech": "noun",
+    "definition": "a small candy with a center (as of fondant, nougat, or nut) and a coating of a food obtained by grinding roasted cacao beans that have been freed from germ and shell.",
     "alternatives": []
   },
   {
     "number": 113,
-    "word": "flowers",
-    "partOfSpeech": "plural noun",
-    "definition": "plants grown or valued for their blossoms.",
+    "word": "forepaw",
+    "partOfSpeech": "noun",
+    "definition": "the foot of a quadruped on a front leg.",
     "alternatives": []
   },
   {
     "number": 114,
-    "word": "angry",
-    "partOfSpeech": "adjective",
-    "definition": "feeling and showing a high degree of strong displeasure and usually of antagonism.",
+    "word": "elephant",
+    "partOfSpeech": "noun",
+    "definition": "any of a family of thickset extremely large nearly hairless herbivorous mammals that have a snout elongated into a muscular trunk and two incisors in the upper jaw developed especially in the male into large ivory tusks.",
     "alternatives": []
   },
   {
     "number": 115,
-    "word": "create",
-    "partOfSpeech": "verb",
-    "definition": "to bring about by a course of action or behavior.",
+    "word": "hedgehog",
+    "partOfSpeech": "noun",
+    "definition": "any of several nocturnal insectivorous mammals that have hair mixed with prickles or spines and are able to roll themselves up so as to present the spines outwardly in every direction.",
     "alternatives": []
   },
   {
     "number": 116,
-    "word": "drooped",
-    "partOfSpeech": "verb",
-    "definition": "took up a slouched or bent posture (as from exhaustion).",
+    "word": "recipe",
+    "partOfSpeech": "noun",
+    "definition": "a list of ingredients and a statement of the procedure to be followed in making an item of food or drink.",
     "alternatives": []
   },
   {
     "number": 117,
-    "word": "cluttered",
-    "partOfSpeech": "verb",
-    "definition": "filled or covered with things in disorder or scattered at random.",
+    "word": "garbage",
+    "partOfSpeech": "noun",
+    "definition": "trash of any kind.",
     "alternatives": []
   },
   {
     "number": 118,
-    "word": "bursting",
-    "partOfSpeech": "verb",
-    "definition": "being full to the point of breaking open or overflowing.",
+    "word": "surprise",
+    "partOfSpeech": "noun",
+    "definition": "something unexpected or astonishing.",
     "alternatives": []
   },
   {
     "number": 119,
-    "word": "edge",
+    "word": "mermaid",
     "partOfSpeech": "noun",
-    "definition": "the cutting side of the blade of an instrument.",
+    "definition": "an imaginary sea creature usually represented as having the upper body of a woman and the lower part like the tail of a fish.",
     "alternatives": []
   },
   {
     "number": 120,
-    "word": "glasses",
-    "partOfSpeech": "plural noun",
-    "definition": "a device used to correct defects of vision and consisting typically of two pieces of hard transparent material that are supported by a bridge resting on the nose and by sidepieces.",
+    "word": "bombarded",
+    "partOfSpeech": "verb",
+    "definition": "attacked vigorously or persistently (as with questions or petitions).",
     "alternatives": []
   },
   {
     "number": 121,
-    "word": "gently",
-    "partOfSpeech": "adverb",
-    "definition": "quietly, gradually, slowly.",
+    "word": "disability",
+    "partOfSpeech": "noun",
+    "definition": "a physical or mental illness, injury, or condition that incapacitates in any way.",
     "alternatives": []
   },
   {
     "number": 122,
-    "word": "crown",
-    "partOfSpeech": "noun",
-    "definition": "a headband or headpiece, often made of metal and decorated with jewels, that is worn by kings and queens as a symbol of power.",
+    "word": "incredible",
+    "partOfSpeech": "adjective",
+    "definition": "hard to believe real or true : unlikely : improbable.",
     "alternatives": []
   },
   {
     "number": 123,
-    "word": "shutters",
-    "partOfSpeech": "plural noun",
-    "definition": "covers or screens for windows or doors that are designed to keep light out or shut out the view.",
+    "word": "leather",
+    "partOfSpeech": "noun",
+    "definition": "the skin of an animal tanned or otherwise dressed for use to render it relatively soft and flexible when dry.",
     "alternatives": []
   },
   {
     "number": 124,
-    "word": "corner",
+    "word": "countess",
     "partOfSpeech": "noun",
-    "definition": "the place where two streets or roads meet.",
+    "definition": "a woman who holds in her own right the rank of earl or a corresponding rank.",
     "alternatives": []
   },
   {
     "number": 125,
-    "word": "barely",
-    "partOfSpeech": "adverb",
-    "definition": "by the narrowest margin.",
+    "word": "nervous",
+    "partOfSpeech": "adjective",
+    "definition": "fearful of what may be coming.",
     "alternatives": []
   },
   {
     "number": 126,
-    "word": "able",
-    "partOfSpeech": "adjective",
-    "definition": "having needed powers (as intelligence or strength) or resources to do something.",
+    "word": "peppercorn",
+    "partOfSpeech": "noun",
+    "definition": "a dried berry of a plant of the genus Piper.",
     "alternatives": []
   },
   {
     "number": 127,
-    "word": "present",
+    "word": "cartwheel",
     "partOfSpeech": "noun",
-    "definition": "a gift.",
+    "definition": "a sideways handspring with arms and legs extended.",
     "alternatives": []
   },
   {
     "number": 128,
-    "word": "clearly",
-    "partOfSpeech": "adverb",
-    "definition": "without doubt or question.",
+    "word": "raise",
+    "partOfSpeech": "verb",
+    "definition": "to lift higher.",
     "alternatives": []
   },
   {
     "number": 129,
-    "word": "really",
-    "partOfSpeech": "adverb",
-    "definition": "in actual fact : actually.",
+    "word": "weather",
+    "partOfSpeech": "noun",
+    "definition": "meteorological or atmospheric condition.",
     "alternatives": []
   },
   {
     "number": 130,
-    "word": "overcome",
+    "word": "zooming",
     "partOfSpeech": "verb",
-    "definition": "to get the better of : to surmount or conquer.",
+    "definition": "moving with or making a loud but low hum or buzz.",
     "alternatives": []
   },
   {
     "number": 131,
-    "word": "sketch",
+    "word": "attacked",
     "partOfSpeech": "verb",
-    "definition": "to draw or paint a rough drawing representing an object or scene.",
+    "definition": "began to injure, damage, or eat.",
     "alternatives": []
   },
   {
     "number": 132,
-    "word": "evening",
+    "word": "turnout",
     "partOfSpeech": "noun",
-    "definition": "the latter part and close of the day and early part of night.",
+    "definition": "a gathering of people for a special purpose.",
     "alternatives": []
   },
   {
     "number": 133,
-    "word": "again",
-    "partOfSpeech": "adverb",
-    "definition": "one more time.",
+    "word": "eaten",
+    "partOfSpeech": "adjective",
+    "definition": "taken in through the mouth as food.",
     "alternatives": []
   },
   {
     "number": 134,
-    "word": "finally",
-    "partOfSpeech": "adverb",
-    "definition": "after a certain space of time : at last : eventually.",
+    "word": "streetlights",
+    "partOfSpeech": "plural noun",
+    "definition": "electric lamps usually mounted on poles at intervals along a public road or highway.",
     "alternatives": []
   },
   {
     "number": 135,
-    "word": "thumbs",
-    "partOfSpeech": "plural noun",
-    "definition": "the short and thick first digits of human hands that are opposable to the other fingers.",
+    "word": "journey",
+    "partOfSpeech": "noun",
+    "definition": "an act of traveling from one place to another.",
     "alternatives": []
   },
   {
     "number": 136,
-    "word": "glittery",
-    "partOfSpeech": "adjective",
-    "definition": "sparkling, twinkling.",
+    "word": "courtyard",
+    "partOfSpeech": "noun",
+    "definition": "an enclosure attached to a house, castle, palace, or other building.",
     "alternatives": []
   },
   {
     "number": 137,
-    "word": "together",
-    "partOfSpeech": "adverb",
-    "definition": "in or into one place or group or mass.",
+    "word": "shouting",
+    "partOfSpeech": "noun",
+    "definition": "speaking in a loud voice.",
     "alternatives": []
   },
   {
     "number": 138,
-    "word": "while",
-    "partOfSpeech": "noun",
-    "definition": "a period of time.",
+    "word": "asleep",
+    "partOfSpeech": "adjective",
+    "definition": "lacking sensation or feeling : numb.",
     "alternatives": []
   },
   {
     "number": 139,
-    "word": "mother",
-    "partOfSpeech": "noun",
-    "definition": "a female parent.",
+    "word": "curious",
+    "partOfSpeech": "adjective",
+    "definition": "showing interest in finding or searching out information.",
     "alternatives": []
   },
   {
     "number": 140,
-    "word": "worth",
-    "partOfSpeech": "preposition",
-    "definition": "having the value of : equal in value to.",
+    "word": "dinosaur",
+    "partOfSpeech": "noun",
+    "definition": "a member of a group of extinct reptiles.",
     "alternatives": []
   },
   {
     "number": 141,
-    "word": "solve",
-    "partOfSpeech": "verb",
-    "definition": "to find an answer, solution, or explanation for.",
+    "word": "brilliant",
+    "partOfSpeech": "adjective",
+    "definition": "showing great intelligence, originality, or resourcefulness.",
     "alternatives": []
   },
   {
     "number": 142,
-    "word": "credit",
-    "partOfSpeech": "noun",
-    "definition": "recognition, acknowledgment.",
+    "word": "vacuum",
+    "partOfSpeech": "verb",
+    "definition": "to remove by means of an electrical appliance for cleaning by suction.",
     "alternatives": []
   },
   {
     "number": 143,
-    "word": "steel",
-    "partOfSpeech": "noun",
-    "definition": "commercial iron that contains carbon in any amount up to about 1.7 percent.",
+    "word": "gorgeous",
+    "partOfSpeech": "adjective",
+    "definition": "dazzlingly beautiful or attractive.",
     "alternatives": []
   },
   {
     "number": 144,
-    "word": "pour",
-    "partOfSpeech": "verb",
-    "definition": "to dispense from a container.",
+    "word": "monsoon",
+    "partOfSpeech": "noun",
+    "definition": "the season of heavy rainfall in India and adjacent countries.",
     "alternatives": []
   },
   {
     "number": 145,
-    "word": "anybody",
-    "partOfSpeech": "pronoun",
-    "definition": "a person out of an indefinite number.",
+    "word": "dangerous",
+    "partOfSpeech": "adjective",
+    "definition": "involving risk : demanding caution or care as extremely unsafe.",
     "alternatives": []
   },
   {
     "number": 146,
-    "word": "whisper",
-    "partOfSpeech": "verb",
-    "definition": "to speak softly, especially with the aim of preserving secrecy.",
+    "word": "avocado",
+    "partOfSpeech": "noun",
+    "definition": "the pulpy green or purple somewhat pear-shaped edible fruit of various tropical American trees — called also “alligator pear.”",
     "alternatives": []
   },
   {
     "number": 147,
-    "word": "Thursday",
+    "word": "valentine",
     "partOfSpeech": "noun",
-    "definition": "the day following Wednesday.",
+    "definition": "something sent or given especially to a sweetheart on a day of the same name.",
     "alternatives": []
   },
   {
     "number": 148,
-    "word": "music",
+    "word": "February",
     "partOfSpeech": "noun",
-    "definition": "vocal or instrumental sounds having rhythm, melody, or harmony.",
+    "definition": "the second month of the Gregorian calendar.",
     "alternatives": []
   },
   {
     "number": 149,
-    "word": "wears",
-    "partOfSpeech": "verb",
-    "definition": "uses for clothing or adornment.",
+    "word": "formation",
+    "partOfSpeech": "noun",
+    "definition": "a group of troops arranged in a particular order.",
     "alternatives": []
   },
   {
     "number": 150,
-    "word": "thoughts",
-    "partOfSpeech": "plural noun",
-    "definition": "whatever things are in one's mind : ideas, opinions.",
+    "word": "especially",
+    "partOfSpeech": "adverb",
+    "definition": "in particular : particularly.",
     "alternatives": []
   },
   {
     "number": 151,
-    "word": "bronze",
-    "partOfSpeech": "noun",
-    "definition": "a substance made of copper and tin that is used to make industrial items, art, and bells.",
+    "word": "hesitate",
+    "partOfSpeech": "verb",
+    "definition": "to delay or pause typically for a moment.",
     "alternatives": []
   },
   {
     "number": 152,
-    "word": "flea",
+    "word": "scorcher",
     "partOfSpeech": "noun",
-    "definition": "a wingless bloodsucking insect that has long legs adapted to leaping.",
+    "definition": "something very hot.",
     "alternatives": []
   },
   {
     "number": 153,
-    "word": "buckeye",
+    "word": "scavenger",
     "partOfSpeech": "noun",
-    "definition": "the large nutlike seed of any North American shrub or tree of a genus that has hand-shaped leaves and showy flowers — called also “ horse chestnut. ”",
+    "definition": "an organism that typically feeds on refuse or carrion.",
     "alternatives": []
   },
   {
     "number": 154,
-    "word": "sudsy",
-    "partOfSpeech": "adjective",
-    "definition": "full of the froth or bubbles formed on soapy water : frothy, foamy.",
+    "word": "fragments",
+    "partOfSpeech": "plural noun",
+    "definition": "parts broken off : imperfect or incomplete parts.",
     "alternatives": []
   },
   {
     "number": 155,
-    "word": "antlers",
-    "partOfSpeech": "plural noun",
-    "definition": "horns of animals of the deer family, typically present only in the male.",
+    "word": "deflated",
+    "partOfSpeech": "verb",
+    "definition": "released air or gas from.",
     "alternatives": []
   },
   {
     "number": 156,
-    "word": "dapper",
-    "partOfSpeech": "adjective",
-    "definition": "neat and trim in appearance.",
+    "word": "unleash",
+    "partOfSpeech": "verb",
+    "definition": "to let loose from control or restraint.",
     "alternatives": []
   },
   {
     "number": 157,
-    "word": "stroll",
+    "word": "ration",
     "partOfSpeech": "noun",
-    "definition": "an idle and leisurely walk.",
+    "definition": "the food allowance of one person or one animal for one day.",
     "alternatives": []
   },
   {
     "number": 158,
-    "word": "cress",
-    "partOfSpeech": "noun",
-    "definition": "any of numerous plants of a family of herbs whose moderately pungent leaves are used in salads and garnishes.",
+    "word": "cosmetics",
+    "partOfSpeech": "plural noun",
+    "definition": "preparations to be applied to the human body for beautifying, preserving, or altering the appearance of a person or for cleansing, coloring, conditioning, or protecting the skin, hair, nails, lips, eyes, or teeth.",
     "alternatives": []
   },
   {
     "number": 159,
-    "word": "bestie",
+    "word": "crawdad",
     "partOfSpeech": "noun",
-    "definition": "a person's greatest friend.",
+    "definition": "any of numerous freshwater crustaceans resembling the lobster but usually much smaller in size.",
     "alternatives": []
   },
   {
     "number": 160,
-    "word": "cereal",
+    "word": "frustration",
     "partOfSpeech": "noun",
-    "definition": "a prepared food of grain, such as oatmeal or cornflakes, eaten especially for breakfast.",
+    "definition": "something that induces feelings of discouragement.",
     "alternatives": []
   },
   {
     "number": 161,
-    "word": "silence",
-    "partOfSpeech": "noun",
-    "definition": "absence of sound or noise.",
+    "word": "unruly",
+    "partOfSpeech": "adjective",
+    "definition": "not readily ruled, disciplined, or managed : turbulent, uncontrollable.",
     "alternatives": []
   },
   {
     "number": 162,
-    "word": "fury",
+    "word": "mascot",
     "partOfSpeech": "noun",
-    "definition": "violent anger : rage.",
+    "definition": "something regarded as a cherished emblem or symbol (as of a group or institution).",
     "alternatives": []
   },
   {
     "number": 163,
-    "word": "howdy",
-    "partOfSpeech": "interjection",
-    "definition": "— used to express greeting.",
+    "word": "aroma",
+    "partOfSpeech": "noun",
+    "definition": "any smell or odor.",
     "alternatives": []
   },
   {
     "number": 164,
-    "word": "important",
-    "partOfSpeech": "adjective",
-    "definition": "marked by or possessing weight or consequence : significant.",
-    "alternatives": []
+    "word": "moustache",
+    "partOfSpeech": "noun",
+    "definition": "the hair growing on a man’s or a woman’s upper lip or that on either side of the upper lip.",
+    "alternatives": [
+      "mustache"
+    ]
   },
   {
     "number": 165,
-    "word": "popovers",
+    "word": "artifacts",
     "partOfSpeech": "plural noun",
-    "definition": "quick breads made from a thin batter of eggs, milk, and flour that steam expands them into hollow shells.",
-    "alternatives": []
+    "definition": "usually simple objects showing human workmanship or modification as distinguished from natural objects; especially : objects remaining from a particular period.",
+    "alternatives": [
+      "artefacts"
+    ]
   },
   {
     "number": 166,
-    "word": "thousand",
-    "partOfSpeech": "adjective",
-    "definition": "being ten hundred in number.",
+    "word": "perfume",
+    "partOfSpeech": "noun",
+    "definition": "a fluid containing essences of flowers or synthetics which is used for its scent.",
     "alternatives": []
   },
   {
     "number": 167,
-    "word": "razor",
-    "partOfSpeech": "noun",
-    "definition": "a sharp fine-edged cutting instrument for shaving hair.",
+    "word": "sinister",
+    "partOfSpeech": "adjective",
+    "definition": "evil or suggestive of evil.",
     "alternatives": []
   },
   {
     "number": 168,
-    "word": "roughly",
-    "partOfSpeech": "adverb",
-    "definition": "with harshness or violence : severely.",
+    "word": "tuxedo",
+    "partOfSpeech": "noun",
+    "definition": "semiformal evening clothing for men consisting of a jacket, a stiff or soft pleated shirt, and usually a cummerbund.",
     "alternatives": []
   },
   {
     "number": 169,
-    "word": "drawl",
-    "partOfSpeech": "noun",
-    "definition": "a manner of speaking in slow tones with lengthened vowels.",
+    "word": "discoveries",
+    "partOfSpeech": "plural noun",
+    "definition": "acts or instances of finding or finding out.",
     "alternatives": []
   },
   {
     "number": 170,
-    "word": "oddity",
-    "partOfSpeech": "noun",
-    "definition": "something unique or curiously unusual.",
+    "word": "lurches",
+    "partOfSpeech": "verb",
+    "definition": "moves unsteadily or in a series of stops and starts : staggers.",
     "alternatives": []
   },
   {
     "number": 171,
-    "word": "insult",
+    "word": "language",
     "partOfSpeech": "noun",
-    "definition": "an act or speech of disrespect or scorn.",
+    "definition": "the words, their pronunciation, and the methods of combining them used and understood by a considerable community and established by long usage.",
     "alternatives": []
   },
   {
     "number": 172,
-    "word": "valley",
+    "word": "prognosis",
     "partOfSpeech": "noun",
-    "definition": "a low-lying area of land that is usually located between hills or mountains.",
+    "definition": "the act or art of foretelling the course of a disease.",
     "alternatives": []
   },
   {
     "number": 173,
-    "word": "gather",
-    "partOfSpeech": "verb",
-    "definition": "to bring together into a crowd or group.",
+    "word": "Buffalo",
+    "partOfSpeech": "geographical entry",
+    "definition": "city and port on Lake Erie and the Niagara River in western New York.",
     "alternatives": []
   },
   {
     "number": 174,
-    "word": "dessert",
-    "partOfSpeech": "noun",
-    "definition": "a course of fruit, pastry, pudding, ice cream, or cheese served at the end of a meal.",
+    "word": "sequins",
+    "partOfSpeech": "plural noun",
+    "definition": "a small ornament usually of shiny metal or plastic pierced with a hole for sewing onto cloth in decorative designs.",
     "alternatives": []
   },
   {
     "number": 175,
-    "word": "stagecoach",
+    "word": "gallop",
     "partOfSpeech": "noun",
-    "definition": "a type of horse-drawn carriage that was used to make regular trips between stations while carrying people and goods.",
+    "definition": "the natural 3-beat gait of a horse.",
     "alternatives": []
   },
   {
     "number": 176,
-    "word": "peaceful",
+    "word": "fabulous",
     "partOfSpeech": "adjective",
-    "definition": "marked by or enjoying quiet or calm.",
+    "definition": "outstanding or remarkable especially in some acceptable or pleasing quality.",
     "alternatives": []
   },
   {
     "number": 177,
-    "word": "ailment",
-    "partOfSpeech": "noun",
-    "definition": "a bodily sickness, disorder, or chronic disease.",
+    "word": "lanky",
+    "partOfSpeech": "adjective",
+    "definition": "tall, somewhat thin, and usually loose-jointed.",
     "alternatives": []
   },
   {
     "number": 178,
-    "word": "combat",
-    "partOfSpeech": "noun",
-    "definition": "a fight, encounter, or contest between individuals or groups.",
+    "word": "fluently",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner that is easy and flowing : pleasingly graceful.",
     "alternatives": []
   },
   {
     "number": 179,
-    "word": "rotten",
+    "word": "mysterious",
     "partOfSpeech": "adjective",
-    "definition": "decayed : putrid.",
+    "definition": "difficult or impossible to understand : obscure.",
     "alternatives": []
   },
   {
     "number": 180,
-    "word": "expressway",
-    "partOfSpeech": "noun",
-    "definition": "a high-speed divided highway for through traffic with controlled access.",
+    "word": "brandished",
+    "partOfSpeech": "verb",
+    "definition": "shook or waved (a weapon) menacingly.",
     "alternatives": []
   },
   {
     "number": 181,
-    "word": "practice",
-    "partOfSpeech": "verb",
-    "definition": "to perform an act often in order to acquire proficiency or skill.",
-    "alternatives": [
-      "practise"
-    ]
+    "word": "sardines",
+    "partOfSpeech": "plural noun",
+    "definition": "any of several small or immature fishes that are suitable for preserving for food.",
+    "alternatives": []
   },
   {
     "number": 182,
-    "word": "squash",
+    "word": "anguish",
     "partOfSpeech": "noun",
-    "definition": "any fruits of plants of a specific genus that are widely cultivated as vegetables.",
+    "definition": "extreme pain or distress.",
     "alternatives": []
   },
   {
     "number": 183,
-    "word": "amused",
-    "partOfSpeech": "verb",
-    "definition": "entertained in a pleasant manner.",
+    "word": "conical",
+    "partOfSpeech": "adjective",
+    "definition": "resembling or having the shape of a solid bounded by a circular or other closed plane base and the surface formed by line segments joining every point of the boundary of the base to a common vertex.",
     "alternatives": []
   },
   {
     "number": 184,
-    "word": "pouch",
-    "partOfSpeech": "noun",
-    "definition": "a sack or satchel of moderate size for storing or transporting goods.",
+    "word": "rickety",
+    "partOfSpeech": "adjective",
+    "definition": "weak in the joints : tottering.",
     "alternatives": []
   },
   {
     "number": 185,
-    "word": "outfits",
-    "partOfSpeech": "plural noun",
-    "definition": "clothing designed to be worn on special occasions or in particular situations.",
+    "word": "lilt",
+    "partOfSpeech": "noun",
+    "definition": "a rhythmical swing, flow, or cadence.",
     "alternatives": []
   },
   {
     "number": 186,
-    "word": "sewing",
-    "partOfSpeech": "verb",
-    "definition": "uniting, attaching, or fastening by stitches made with a flexible thread or filament.",
+    "word": "pediatric",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the care and medical treatment of children.",
     "alternatives": []
   },
   {
     "number": 187,
-    "word": "transform",
-    "partOfSpeech": "verb",
-    "definition": "to change completely or essentially in composition or structure.",
+    "word": "porridge",
+    "partOfSpeech": "noun",
+    "definition": "a soft food of legumes or grains that are boiled in water or milk until they are thick.",
     "alternatives": []
   },
   {
     "number": 188,
-    "word": "marble",
+    "word": "democracy",
     "partOfSpeech": "noun",
-    "definition": "crystallized limestone that is capable of taking a high polish, and that is extensively used especially in architecture and sculpture.",
+    "definition": "a government by the people : rule of the majority.",
     "alternatives": []
   },
   {
     "number": 189,
-    "word": "gallon",
-    "partOfSpeech": "noun",
-    "definition": "a unit of liquid volume equal to 231 cubic inches.",
+    "word": "rummage",
+    "partOfSpeech": "verb",
+    "definition": "to make a thorough search in : look through every section of : ransack.",
     "alternatives": []
   },
   {
     "number": 190,
-    "word": "flitting",
-    "partOfSpeech": "verb",
-    "definition": "moving briskly, irregularly, or intermittently usually from place to place.",
+    "word": "beige",
+    "partOfSpeech": "adjective",
+    "definition": "of a variable color averaging light grayish yellowish brown.",
     "alternatives": []
   },
   {
     "number": 191,
-    "word": "plaza",
-    "partOfSpeech": "noun",
-    "definition": "a public square in a city or town.",
+    "word": "ancestral",
+    "partOfSpeech": "adjective",
+    "definition": "of or belonging to one or more persons from whom one is descended.",
     "alternatives": []
   },
   {
     "number": 192,
-    "word": "yesterday",
-    "partOfSpeech": "adverb",
-    "definition": "on the day last past : on the day before today.",
+    "word": "grimace",
+    "partOfSpeech": "noun",
+    "definition": "a deliberate or involuntary distortion of the face expressive of some feeling (as contempt or disapprobation).",
     "alternatives": []
   },
   {
     "number": 193,
-    "word": "nighttime",
-    "partOfSpeech": "noun",
-    "definition": "the time from dusk to dawn.",
+    "word": "gaunt",
+    "partOfSpeech": "adjective",
+    "definition": "thin and angular : attenuated especially by fasting or suffering.",
     "alternatives": []
   },
   {
     "number": 194,
-    "word": "putty",
-    "partOfSpeech": "noun",
-    "definition": "a cement with the consistency of dough used in fastening glass in sashes and stopping crevices in woodwork.",
+    "word": "enormous",
+    "partOfSpeech": "adjective",
+    "definition": "marked by extraordinarily great size, number, degree or significance.",
     "alternatives": []
   },
   {
     "number": 195,
-    "word": "glumly",
-    "partOfSpeech": "adverb",
-    "definition": "in a dismal, dreary, or gloomy manner.",
+    "word": "geranium",
+    "partOfSpeech": "noun",
+    "definition": "any of a widely distributed genus of plants having regular flowers without spurs and with glands that alternate with the petals.",
     "alternatives": []
   },
   {
     "number": 196,
-    "word": "ignore",
-    "partOfSpeech": "verb",
-    "definition": "to refuse to take notice of.",
+    "word": "nautical",
+    "partOfSpeech": "adjective",
+    "definition": "of, relating to or associated with sailors, navigation or ships.",
     "alternatives": []
   },
   {
     "number": 197,
-    "word": "improve",
-    "partOfSpeech": "verb",
-    "definition": "to make more excellent or desirable.",
+    "word": "dubious",
+    "partOfSpeech": "adjective",
+    "definition": "questionable as to value, quality, origin, or character : open to question.",
     "alternatives": []
   },
   {
     "number": 198,
-    "word": "Internet",
-    "partOfSpeech": "noun",
-    "definition": "an electronic communications network that connects computer networks and organizational computer facilities around the world.",
+    "word": "ebony",
+    "partOfSpeech": "adjective",
+    "definition": "of very low lightness : black, dark — used of color.",
     "alternatives": []
   },
   {
     "number": 199,
-    "word": "pantry",
-    "partOfSpeech": "noun",
-    "definition": "a room or closet next to a kitchen used for storing food or glasses and dishes.",
+    "word": "foreign",
+    "partOfSpeech": "adjective",
+    "definition": "born in, belonging to, derived from, intended for, or characteristic of some place or country (as nation) other than the one under consideration : not native or domestic.",
     "alternatives": []
   },
   {
     "number": 200,
-    "word": "hungrily",
-    "partOfSpeech": "adverb",
-    "definition": "in a manner marked by strong desire or craving : longingly.",
+    "word": "paltry",
+    "partOfSpeech": "adjective",
+    "definition": "inferior, trashy, worthless.",
     "alternatives": []
   },
   {
     "number": 201,
-    "word": "confident",
-    "partOfSpeech": "adjective",
-    "definition": "characterized by a strong, bold belief in oneself, and by freedom from fear, doubt, and worry.",
+    "word": "verdict",
+    "partOfSpeech": "noun",
+    "definition": "an opinion pronounced or felt : decision, judgment.",
     "alternatives": []
   },
   {
     "number": 202,
-    "word": "vision",
-    "partOfSpeech": "noun",
-    "definition": "something seen otherwise than by the ordinary sight.",
+    "word": "garbled",
+    "partOfSpeech": "verb",
+    "definition": "mixed up through accident or ignorance : jumbled.",
     "alternatives": []
   },
   {
     "number": 203,
-    "word": "diamond",
-    "partOfSpeech": "noun",
-    "definition": "the area of a baseball or softball field enclosed in a square with a base at each corner — called also “infield.”",
+    "word": "encourages",
+    "partOfSpeech": "verb",
+    "definition": "inspires with mental or moral strength, spirit, or hope.",
     "alternatives": []
   },
   {
     "number": 204,
-    "word": "stitchery",
+    "word": "imitation",
     "partOfSpeech": "noun",
-    "definition": "work (as embroidery, knitting, needlepoint) other than plain sewing : needlework.",
+    "definition": "an artificial likeness : counterfeit.",
     "alternatives": []
   },
   {
     "number": 205,
-    "word": "fiddlehead",
-    "partOfSpeech": "noun",
-    "definition": "one of the young unfurling fronds of certain ferns that are often eaten as greens.",
+    "word": "miniature",
+    "partOfSpeech": "adjective",
+    "definition": "being or represented on a small scale.",
     "alternatives": []
   },
   {
     "number": 206,
-    "word": "hobbit",
+    "word": "receptionist",
     "partOfSpeech": "noun",
-    "definition": "a member of a fictitious peaceful and genial race of small, humanlike creatures in the stories of J.R.R. Tolkien.",
+    "definition": "one who is employed in a business or professional establishment to greet and help visitors, business callers, or patients.",
     "alternatives": []
   },
   {
     "number": 207,
-    "word": "doughnut",
+    "word": "preamble",
     "partOfSpeech": "noun",
-    "definition": "a small cake usually shaped like a ring and fried in deep fat.",
-    "alternatives": [
-      "donut"
-    ]
+    "definition": "a preface or introductory part (as to a written work).",
+    "alternatives": []
   },
   {
     "number": 208,
-    "word": "precious",
+    "word": "plausible",
     "partOfSpeech": "adjective",
-    "definition": "of great value or high price.",
+    "definition": "superficially worthy of belief : credible.",
     "alternatives": []
   },
   {
     "number": 209,
-    "word": "wafting",
+    "word": "reprimanding",
     "partOfSpeech": "verb",
-    "definition": "causing to move or go lightly by or as if by the impulse of wind or waves.",
+    "definition": "chiding for a fault : censuring formally and especially with authority.",
     "alternatives": []
   },
   {
     "number": 210,
-    "word": "occupy",
-    "partOfSpeech": "verb",
-    "definition": "to reside in as an owner or tenant.",
+    "word": "commotion",
+    "partOfSpeech": "noun",
+    "definition": "noisy confusion.",
     "alternatives": []
   },
   {
     "number": 211,
-    "word": "Afrobeat",
+    "word": "oblivion",
     "partOfSpeech": "noun",
-    "definition": "urban popular music originating in Nigeria in the late 1960s that emphasizes percussion rhythms and features elements of jazz and funk.",
+    "definition": "the quality or state of being forgotten.",
     "alternatives": []
   },
   {
     "number": 212,
-    "word": "termite",
-    "partOfSpeech": "noun",
-    "definition": "pale-colored soft-bodied social insects that live in colonies and feed on wood.",
+    "word": "immigrants",
+    "partOfSpeech": "plural noun",
+    "definition": "persons that come to a country for the purpose of permanent residence.",
     "alternatives": []
   },
   {
     "number": 213,
-    "word": "insulation",
+    "word": "steeple",
     "partOfSpeech": "noun",
-    "definition": "material that slows the passage of heat, electricity, or sound.",
+    "definition": "a tall structure usually composed of a series of diminishing stories finished at the top with a small spire or cupola surmounting the lower straight-sided story of a church tower.",
     "alternatives": []
   },
   {
     "number": 214,
-    "word": "intertwine",
-    "partOfSpeech": "verb",
-    "definition": "to become mutually entangled or involved : to be twisted about one another.",
+    "word": "spectators",
+    "partOfSpeech": "plural noun",
+    "definition": "people watching an exhibition (such as a sports event).",
     "alternatives": []
   },
   {
     "number": 215,
-    "word": "recital",
-    "partOfSpeech": "noun",
-    "definition": "an exhibition concert given by music pupils.",
+    "word": "lanyards",
+    "partOfSpeech": "plural noun",
+    "definition": "cords worn around the neck by sailors to which is usually attached a knife.",
     "alternatives": []
   },
   {
     "number": 216,
-    "word": "furniture",
-    "partOfSpeech": "noun",
-    "definition": "articles of convenience or decoration (as tables and chairs) for use in living quarters, offices, and public and private buildings.",
+    "word": "suspicious",
+    "partOfSpeech": "adjective",
+    "definition": "arousing or tending to arouse the imagination or apprehension of something wrong or hurtful without proof or on slight evidence.",
     "alternatives": []
   },
   {
     "number": 217,
-    "word": "ambush",
+    "word": "parchment",
     "partOfSpeech": "noun",
-    "definition": "the act of attacking by surprise from a concealed position.",
+    "definition": "a thin sheet of a type of paper made for recording writing.",
     "alternatives": []
   },
   {
     "number": 218,
-    "word": "squire",
-    "partOfSpeech": "noun",
-    "definition": "a shield bearer or armor-bearer of a knight.",
+    "word": "ramshackle",
+    "partOfSpeech": "adjective",
+    "definition": "appearing as if ready to collapse : dilapidated : rickety.",
     "alternatives": []
   },
   {
     "number": 219,
-    "word": "submerged",
-    "partOfSpeech": "verb",
-    "definition": "plunged into water or other fluid.",
+    "word": "fugitive",
+    "partOfSpeech": "noun",
+    "definition": "one who tries to escape justice.",
     "alternatives": []
   },
   {
     "number": 220,
-    "word": "saucer",
+    "word": "heron",
     "partOfSpeech": "noun",
-    "definition": "a small shallow dish for holding a cup.",
+    "definition": "a wading bird that has a long neck and legs, a long tapering bill with a sharp point and sharp cutting edges, large wings and soft plumage.",
     "alternatives": []
   },
   {
     "number": 221,
-    "word": "gloaming",
-    "partOfSpeech": "noun",
-    "definition": "twilight : dusk.",
+    "word": "dissolving",
+    "partOfSpeech": "verb",
+    "definition": "causing to disperse or disappear : getting rid of.",
     "alternatives": []
   },
   {
     "number": 222,
-    "word": "engulf",
-    "partOfSpeech": "verb",
-    "definition": "to flow over and enclose : to overwhelm.",
+    "word": "nomad",
+    "partOfSpeech": "noun",
+    "definition": "a member of a people that has no fixed residence but wanders from place to place usually seasonally.",
     "alternatives": []
   },
   {
     "number": 223,
-    "word": "graduate",
-    "partOfSpeech": "noun",
-    "definition": "one that has received an academic degree, a diploma, or a certificate.",
+    "word": "billowed",
+    "partOfSpeech": "verb",
+    "definition": "rose or rolled in waves or surges : surged, undulated.",
     "alternatives": []
   },
   {
     "number": 224,
-    "word": "fascinated",
-    "partOfSpeech": "verb",
-    "definition": "commanded the attention or interest of strongly or irresistibly.",
+    "word": "skewer",
+    "partOfSpeech": "noun",
+    "definition": "a pin of wood or metal for fastening meat to keep in form while roasting or to hold small pieces of meat and vegetables for broiling.",
     "alternatives": []
   },
   {
     "number": 225,
-    "word": "composition",
-    "partOfSpeech": "noun",
-    "definition": "a written exercise done for a course in writing in school and usually intended to show study and care in arrangement.",
+    "word": "Berlin",
+    "partOfSpeech": "geographical entry",
+    "definition": "city comprising a state of Germany; capital of Germany on the Spree River.",
     "alternatives": []
   },
   {
     "number": 226,
-    "word": "wisdom",
+    "word": "lunacy",
     "partOfSpeech": "noun",
-    "definition": "information gained over time.",
+    "definition": "wild foolishness : extravagant folly.",
     "alternatives": []
   },
   {
     "number": 227,
-    "word": "ourselves",
-    "partOfSpeech": "plural pronoun",
-    "definition": "those identical ones that are we.",
+    "word": "conjure",
+    "partOfSpeech": "verb",
+    "definition": "to bring into reality as if by magic.",
     "alternatives": []
   },
   {
     "number": 228,
-    "word": "invisible",
-    "partOfSpeech": "adjective",
-    "definition": "incapable of being seen through lack of physical substance.",
+    "word": "bracken",
+    "partOfSpeech": "noun",
+    "definition": "a large coarse fern.",
     "alternatives": []
   },
   {
     "number": 229,
-    "word": "completely",
-    "partOfSpeech": "adverb",
-    "definition": "fully : entirely.",
+    "word": "noggin",
+    "partOfSpeech": "noun",
+    "definition": "a person’s head.",
     "alternatives": []
   },
   {
     "number": 230,
-    "word": "poisonous",
+    "word": "neon",
     "partOfSpeech": "adjective",
-    "definition": "having the qualities or effects of a substance that in the right amounts can harm or kill a living thing.",
+    "definition": "extremely bright in color.",
     "alternatives": []
   },
   {
     "number": 231,
-    "word": "intimidate",
-    "partOfSpeech": "verb",
-    "definition": "to make fearful.",
+    "word": "rakish",
+    "partOfSpeech": "adjective",
+    "definition": "negligent of convention or strict formality : careless, jaunty, sporty.",
     "alternatives": []
   },
   {
     "number": 232,
-    "word": "drawers",
-    "partOfSpeech": "plural noun",
-    "definition": "sliding boxes that are opened by pulling out and closed by pushing in.",
+    "word": "hypnosis",
+    "partOfSpeech": "noun",
+    "definition": "a trancelike state that resembles sleep but is induced by a person whose suggestions are readily accepted by the subject.",
     "alternatives": []
   },
   {
     "number": 233,
-    "word": "disdain",
+    "word": "rotunda",
     "partOfSpeech": "noun",
-    "definition": "a feeling of contempt for something regarded as unworthy of or beneath one : scorn.",
+    "definition": "a round building; especially : one that is round both outside and inside and is covered by a dome.",
     "alternatives": []
   },
   {
     "number": 234,
-    "word": "deliberately",
-    "partOfSpeech": "adverb",
-    "definition": "in a slow, unhurried, and steady manner.",
+    "word": "gusto",
+    "partOfSpeech": "noun",
+    "definition": "vitality marked by an overabundance of healthy positive and often unrefined vigor and enthusiasm.",
     "alternatives": []
   },
   {
     "number": 235,
-    "word": "spacious",
-    "partOfSpeech": "adjective",
-    "definition": "affording much room : not narrow or constricted : roomy.",
+    "word": "toiletries",
+    "partOfSpeech": "plural noun",
+    "definition": "articles or preparations used in the process of washing, grooming, and arranging oneself.",
     "alternatives": []
   },
   {
     "number": 236,
-    "word": "forearms",
-    "partOfSpeech": "plural noun",
-    "definition": "the parts of the upper limbs between the elbow and the wrist in primates.",
+    "word": "gleaned",
+    "partOfSpeech": "verb",
+    "definition": "picked up or scraped together in piecemeal fashion : acquired bit by bit from some source.",
     "alternatives": []
   },
   {
     "number": 237,
-    "word": "gratitude",
-    "partOfSpeech": "noun",
-    "definition": "thankfulness.",
+    "word": "jeered",
+    "partOfSpeech": "verb",
+    "definition": "spoke or cried out with derision or mockery.",
     "alternatives": []
   },
   {
     "number": 238,
-    "word": "appreciation",
-    "partOfSpeech": "noun",
-    "definition": "expression of gratification and approval or gratitude.",
+    "word": "winsome",
+    "partOfSpeech": "adjective",
+    "definition": "pleasant.",
     "alternatives": []
   },
   {
     "number": 239,
-    "word": "devotion",
-    "partOfSpeech": "noun",
-    "definition": "strong attachment : zeal, enthusiasm.",
+    "word": "prattling",
+    "partOfSpeech": "verb",
+    "definition": "talking or saying much and idly.",
     "alternatives": []
   },
   {
     "number": 240,
-    "word": "inscription",
-    "partOfSpeech": "noun",
-    "definition": "text that is written or otherwise marked upon an object so as to create a lasting or public record.",
+    "word": "galore",
+    "partOfSpeech": "adjective",
+    "definition": "abundant, plentiful, profuse.",
     "alternatives": []
   },
   {
     "number": 241,
-    "word": "inventory",
+    "word": "emporium",
     "partOfSpeech": "noun",
-    "definition": "an itemized list of current assets.",
+    "definition": "a large business or store.",
     "alternatives": []
   },
   {
     "number": 242,
-    "word": "wheezy",
-    "partOfSpeech": "adjective",
-    "definition": "inclined to breathe with difficulty with a usually audible whistling sound.",
+    "word": "atrium",
+    "partOfSpeech": "noun",
+    "definition": "a large central room with other rooms opening from it.",
     "alternatives": []
   },
   {
     "number": 243,
-    "word": "possible",
+    "word": "eccentric",
     "partOfSpeech": "adjective",
-    "definition": "falling within the bounds of what may be done or be conceived within the framework of nature, custom, or manners.",
+    "definition": "peculiar or strange.",
     "alternatives": []
   },
   {
     "number": 244,
-    "word": "replace",
-    "partOfSpeech": "verb",
-    "definition": "to provide a substitute for.",
+    "word": "savant",
+    "partOfSpeech": "noun",
+    "definition": "a person of learning; especially : one with detailed knowledge in some specialized field.",
     "alternatives": []
   },
   {
     "number": 245,
-    "word": "crookedly",
-    "partOfSpeech": "adverb",
-    "definition": "in a bent or twisted manner.",
+    "word": "almanac",
+    "partOfSpeech": "noun",
+    "definition": "a publication containing statistical, tabular and general information related to a given calendar period, usually a year.",
     "alternatives": []
   },
   {
     "number": 246,
-    "word": "fragrant",
-    "partOfSpeech": "adjective",
-    "definition": "having a sweet smell or pleasing odor.",
+    "word": "hippies",
+    "partOfSpeech": "plural noun",
+    "definition": "usually young people who reject the mores of established society and adhere to a nonviolent ethic.",
     "alternatives": []
   },
   {
     "number": 247,
-    "word": "fowl",
-    "partOfSpeech": "noun",
-    "definition": "a chicken; especially : an adult hen.",
+    "word": "samosas",
+    "partOfSpeech": "plural noun",
+    "definition": "fried pastries that are stuffed with vegetables or spiced meat and shaped like small triangles.",
     "alternatives": []
   },
   {
     "number": 248,
-    "word": "responsible",
-    "partOfSpeech": "adjective",
-    "definition": "answerable as the primary cause, motive, or agent.",
+    "word": "campaign",
+    "partOfSpeech": "noun",
+    "definition": "a period of activity usually continuous and often competitive especially in any seasonal occupation or industry.",
     "alternatives": []
   },
   {
     "number": 249,
-    "word": "awfully",
-    "partOfSpeech": "adverb",
-    "definition": "extremely, very.",
+    "word": "pistachio",
+    "partOfSpeech": "noun",
+    "definition": "the edible green seed of a small tree of southern Europe and Asia Minor.",
     "alternatives": []
   },
   {
     "number": 250,
-    "word": "manual",
-    "partOfSpeech": "adjective",
-    "definition": "designed for use or operation with the hands : worked by hand.",
+    "word": "mosque",
+    "partOfSpeech": "noun",
+    "definition": "a building used for public worship by Muslims.",
     "alternatives": []
   },
   {
     "number": 251,
-    "word": "thorax",
-    "partOfSpeech": "noun",
-    "definition": "the portion of an insect body that is the middle of the three chief divisions.",
+    "word": "zombielike",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to a person markedly strange or abnormal in mentality, appearance, or behavior.",
     "alternatives": []
   },
   {
     "number": 252,
-    "word": "tostones",
-    "partOfSpeech": "plural noun",
-    "definition": "thick slices of green plantain that are fried, flattened, and then fried again.",
+    "word": "warlock",
+    "partOfSpeech": "noun",
+    "definition": "one given to black magic : sorcerer, wizard.",
     "alternatives": []
   },
   {
     "number": 253,
-    "word": "bunions",
-    "partOfSpeech": "plural noun",
-    "definition": "inflamed swellings of the small fluid-filled sacs on the first joints of the big toes.",
+    "word": "colossus",
+    "partOfSpeech": "noun",
+    "definition": "one marked by great size, strength, or power, and able to dwarf or dominate others.",
     "alternatives": []
   },
   {
     "number": 254,
-    "word": "bamboozled",
-    "partOfSpeech": "verb",
-    "definition": "concealed one's true motives from (someone) by elaborately feigning good intentions so as to gain an end : hoodwinked.",
+    "word": "convulsively",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner producing or accompanied by an unnatural, violent, and involuntary contraction or series of contractions of the muscles.",
     "alternatives": []
   },
   {
     "number": 255,
-    "word": "Oman",
-    "partOfSpeech": "geographical entry",
-    "definition": "country in Asia in southeastern Arabia bordering on the Arabian Sea; a sultanate; capital Muscat.",
+    "word": "dimensional",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to magnitude and size.",
     "alternatives": []
   },
   {
     "number": 256,
-    "word": "flummox",
-    "partOfSpeech": "verb",
-    "definition": "to throw into perplexity; embarrass greatly : confound.",
-    "alternatives": [
-      "flummix",
-      "flummux"
-    ]
+    "word": "garishly",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner that is tastelessly showy or overdecorated : flamboyant.",
+    "alternatives": []
   },
   {
     "number": 257,
-    "word": "inscrutable",
-    "partOfSpeech": "adjective",
-    "definition": "not readily comprehensible : mysterious.",
+    "word": "graffitist",
+    "partOfSpeech": "noun",
+    "definition": "one who makes an inscription, figure, or design scratched on rocks or walls or on artifacts made of plaster, stone, or clay.",
     "alternatives": []
   },
   {
     "number": 258,
-    "word": "serenity",
+    "word": "Everest",
     "partOfSpeech": "noun",
-    "definition": "the quality or state of being calm or peaceful.",
+    "definition": "the highest point : climax, apex.",
     "alternatives": []
   },
   {
     "number": 259,
-    "word": "congregation",
+    "word": "dexterity",
     "partOfSpeech": "noun",
-    "definition": "an assembly of persons meeting for worship and religious instruction.",
+    "definition": "skill and ease in using the hands.",
     "alternatives": []
   },
   {
     "number": 260,
-    "word": "sentinel",
-    "partOfSpeech": "noun",
-    "definition": "one that watches or guards.",
+    "word": "cavorting",
+    "partOfSpeech": "verb",
+    "definition": "bounding, prancing, or frisking about.",
     "alternatives": []
   },
   {
     "number": 261,
-    "word": "Arctic",
-    "partOfSpeech": "adjective",
-    "definition": "relating to the region around the north pole to approximately 65 degrees north.",
+    "word": "marauder",
+    "partOfSpeech": "noun",
+    "definition": "one who roams about and makes irregular sudden small-scale attacks, raids, or incursions for the sake of obtaining loot.",
     "alternatives": []
   },
   {
     "number": 262,
-    "word": "fluke",
+    "word": "conscience",
     "partOfSpeech": "noun",
-    "definition": "an extraordinary stroke of good or bad luck.",
+    "definition": "the sense of right or wrong within the individual.",
     "alternatives": []
   },
   {
     "number": 263,
-    "word": "captain",
-    "partOfSpeech": "noun",
-    "definition": "an officer in charge of any ship and responsible for its navigation and for direction of its operations.",
+    "word": "battlements",
+    "partOfSpeech": "plural noun",
+    "definition": "parapets that consist of alternate solid parts and open spaces that is used in fortified buildings for defense.",
     "alternatives": []
   },
   {
     "number": 264,
-    "word": "delegation",
-    "partOfSpeech": "noun",
-    "definition": "one or more persons appointed or chosen to represent others (as in congress).",
+    "word": "deferential",
+    "partOfSpeech": "adjective",
+    "definition": "showing courteous or ingratiating regard for another’s wishes.",
     "alternatives": []
   },
   {
     "number": 265,
-    "word": "verve",
+    "word": "albatross",
     "partOfSpeech": "noun",
-    "definition": "energy, vitality.",
+    "definition": "any of a number of large web-footed seabirds that are related to the petrels and that include the largest of the seabirds, being capable of long-continued flight and appearing often at great distances from land chiefly over southern seas.",
     "alternatives": []
   },
   {
     "number": 266,
-    "word": "Vaseline",
-    "partOfSpeech": "trademark",
-    "definition": "a yellowish semisolid mass used primarily as a base for ointments and as a protective dressing (as for burns).",
+    "word": "khaki",
+    "partOfSpeech": "noun",
+    "definition": "a durable cotton or woolen cloth used for military uniforms.",
     "alternatives": []
   },
   {
     "number": 267,
-    "word": "gastritis",
-    "partOfSpeech": "noun",
-    "definition": "inflammation of the stomach especially of its mucous membrane.",
+    "word": "opalescent",
+    "partOfSpeech": "adjective",
+    "definition": "having a colored smooth surface that gives the effect of cloudiness and diffusion due to the intentional presence of fissures, striae, and bubbles.",
     "alternatives": []
   },
   {
     "number": 268,
-    "word": "platypus",
+    "word": "asphalt",
     "partOfSpeech": "noun",
-    "definition": "a small egg-laying aquatic mammal of southern and eastern Australia and Tasmania.",
+    "definition": "a mixture of gravel, sand and petroleum products that is used for pavement.",
     "alternatives": []
   },
   {
     "number": 269,
-    "word": "salute",
-    "partOfSpeech": "verb",
-    "definition": "to give a sign of respect, courtesy, or goodwill to.",
+    "word": "Yiddish",
+    "partOfSpeech": "noun",
+    "definition": "a High German language spoken by Jews chiefly in eastern Europe and areas to which Jews from eastern Europe have migrated and commonly written in Hebrew characters.",
     "alternatives": []
   },
   {
     "number": 270,
-    "word": "mantel",
+    "word": "talcum",
     "partOfSpeech": "noun",
-    "definition": "the shelf above a fireplace.",
-    "alternatives": [
-      "mantle"
-    ]
+    "definition": "a soft mineral that is a basic magnesium silicate and is usually whitish, greenish or grayish with a soapy feel.",
+    "alternatives": []
   },
   {
     "number": 271,
-    "word": "amphitheater",
+    "word": "tranquilizer",
     "partOfSpeech": "noun",
-    "definition": "a circular or semicircular building with rising tiers of seats about a central open space.",
+    "definition": "a drug used to reduce anxiety and tension states or mental disturbances in people and animals.",
     "alternatives": []
   },
   {
     "number": 272,
-    "word": "desecration",
-    "partOfSpeech": "noun",
-    "definition": "the act or an instance of treating (an object of veneration or admiration) irreverently often in a way to provoke outrage on the part of others.",
+    "word": "equestrian",
+    "partOfSpeech": "adjective",
+    "definition": "related to horseback riding.",
     "alternatives": []
   },
   {
     "number": 273,
-    "word": "diode",
-    "partOfSpeech": "noun",
-    "definition": "an electron tube having two electrodes, a cathode, and an anode.",
+    "word": "plaited",
+    "partOfSpeech": "adjective",
+    "definition": "braided : interwoven.",
     "alternatives": []
   },
   {
     "number": 274,
-    "word": "mischievous",
-    "partOfSpeech": "adjective",
-    "definition": "tending to cause annoyance, trouble, or minor injury to others.",
+    "word": "monsieur",
+    "partOfSpeech": "noun",
+    "definition": "mister.",
     "alternatives": []
   },
   {
     "number": 275,
-    "word": "bionic",
-    "partOfSpeech": "adjective",
-    "definition": "having natural capability or performance enhanced by or as if by computerized or electromechanical devices.",
+    "word": "manticores",
+    "partOfSpeech": "plural noun",
+    "definition": "legendary animals having the head of a man often with horns, the body of a lion, and the tail of a dragon or scorpion.",
     "alternatives": []
   },
   {
     "number": 276,
-    "word": "syllables",
-    "partOfSpeech": "plural noun",
-    "definition": "units of spoken language that consist of vowel or consonant sounds alone or accompanied by other consonant sounds.",
+    "word": "prestigious",
+    "partOfSpeech": "adjective",
+    "definition": "esteemed in general opinion : honored.",
     "alternatives": []
   },
   {
     "number": 277,
-    "word": "sultanate",
+    "word": "fraidycat",
     "partOfSpeech": "noun",
-    "definition": "a state or country governed by a king or ruling sovereign especially of a Muslim state.",
+    "definition": "one that is timid or easily frightened.",
     "alternatives": []
   },
   {
     "number": 278,
-    "word": "turban",
-    "partOfSpeech": "noun",
-    "definition": "a headdress consisting of a long cloth that is wrapped around a cap or directly around the head.",
+    "word": "guttural",
+    "partOfSpeech": "adjective",
+    "definition": "being a speech sound that is formed in the throat.",
     "alternatives": []
   },
   {
     "number": 279,
-    "word": "sausage",
+    "word": "lo mein",
     "partOfSpeech": "noun",
-    "definition": "highly seasoned ground meat that is stuffed in casings which are tied shut at both ends.",
+    "definition": "a Chinese dish consisting of sliced vegetables, soft noodles, and usually meat or shrimp in bite-size pieces stir-fried in a seasoned sauce.",
     "alternatives": []
   },
   {
     "number": 280,
-    "word": "disgruntled",
-    "partOfSpeech": "verb",
-    "definition": "put in bad humor : gave rise to peevish dissatisfaction in.",
+    "word": "courier",
+    "partOfSpeech": "noun",
+    "definition": "one who carries messages, news, or information either with urgent haste or in accordance with a regular schedule.",
     "alternatives": []
   },
   {
     "number": 281,
-    "word": "terrify",
-    "partOfSpeech": "verb",
-    "definition": "to fill with stark fear : to frighten greatly.",
+    "word": "sans serif",
+    "partOfSpeech": "noun",
+    "definition": "a letter or typeface with letters that have no short lines stemming from and at an angle to the upper and lower ends of the strokes of each letter.",
     "alternatives": []
   },
   {
     "number": 282,
-    "word": "quip",
-    "partOfSpeech": "verb",
-    "definition": "to make witty or funny observations or responses on the spur of the moment.",
+    "word": "psyche",
+    "partOfSpeech": "noun",
+    "definition": "the soul, self, or personality.",
     "alternatives": []
   },
   {
     "number": 283,
-    "word": "information",
+    "word": "stucco",
     "partOfSpeech": "noun",
-    "definition": "knowledge of a particular event or situation.",
+    "definition": "a fine plaster of high quality used in the decoration and ornamentation of interior walls.",
     "alternatives": []
   },
   {
     "number": 284,
-    "word": "incubator",
+    "word": "Frankenstein",
     "partOfSpeech": "noun",
-    "definition": "an apparatus for housing premature or sick babies in an environment of controlled humidity, oxygen supply, and temperature.",
+    "definition": "a work or agency that proves troublesomely uncontrollable especially to its creator; especially : one that ultimately destroys or ruins its creator.",
     "alternatives": []
   },
   {
     "number": 285,
-    "word": "droll",
-    "partOfSpeech": "adjective",
-    "definition": "having a whimsical, humorous, or odd character.",
+    "word": "schema",
+    "partOfSpeech": "noun",
+    "definition": "a diagrammatic depiction of a typical or average situation; broadly: an abridged or generalized presentation : a framework of reference.",
     "alternatives": []
   },
   {
     "number": 286,
-    "word": "vultures",
-    "partOfSpeech": "plural noun",
-    "definition": "large birds that are related to hawks, eagles, and falcons but have weaker claws and a usually naked head, and subsist chiefly or entirely on the dead and putrefying flesh of animals.",
+    "word": "et cetera",
+    "partOfSpeech": "noun",
+    "definition": "and others especially of the same kind : and so on : and so forth.",
     "alternatives": []
   },
   {
     "number": 287,
-    "word": "Arabic",
+    "word": "vidimus",
     "partOfSpeech": "noun",
-    "definition": "a Semitic language of parts of the Middle East and northern Africa that has numerous dialects but in the written form usually conforms to the classical standards of the Qur'an.",
+    "definition": "an official or legal inspection (as of a document); also : an attested copy of a document.",
     "alternatives": []
   },
   {
     "number": 288,
-    "word": "Brooklyn",
-    "partOfSpeech": "geographical entry",
-    "definition": "a former city (1834 –98) on Long Island that is now a borough of New York City.",
+    "word": "delphine",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to any of various small marine toothed whales that have the snout more or less elongated into a beak and the neck vertebrae partially fused.",
     "alternatives": []
   },
   {
     "number": 289,
-    "word": "sacred",
-    "partOfSpeech": "adjective",
-    "definition": "religious in nature, association, or use.",
+    "word": "slough",
+    "partOfSpeech": "noun",
+    "definition": "a state of moral degradation or spiritual dejection into which one sinks or from which one cannot free oneself : an engulfing depth.",
     "alternatives": []
   },
   {
     "number": 290,
-    "word": "reindeer",
+    "word": "archipelago",
     "partOfSpeech": "noun",
-    "definition": "any of several deers that inhabit the northern parts of Europe, Asia, and America that are often domesticated and used for drawing sleds and as a source of food.",
+    "definition": "a group or cluster of islands.",
     "alternatives": []
   },
   {
     "number": 291,
-    "word": "disclaimer",
+    "word": "serape",
     "partOfSpeech": "noun",
-    "definition": "a denial or disavowal of legal demand for compensation, benefits, or payment.",
-    "alternatives": []
+    "definition": "a woolen blanket often of bright geometric patterns worn by Spanish-American men as a cloak or poncho.",
+    "alternatives": [
+      "sarape"
+    ]
   },
   {
     "number": 292,
-    "word": "quotation",
+    "word": "puissance",
     "partOfSpeech": "noun",
-    "definition": "a passage referred to, repeated, or adduced especially as evidence or illustration.",
+    "definition": "ability to coerce or sway : controlling influence : power.",
     "alternatives": []
   },
   {
     "number": 293,
-    "word": "superior",
-    "partOfSpeech": "adjective",
-    "definition": "notably excellent of its kind : surpassingly good.",
+    "word": "pinioning",
+    "partOfSpeech": "verb",
+    "definition": "disabling or restraining by binding the arms usually to the body.",
     "alternatives": []
   },
   {
     "number": 294,
-    "word": "privilege",
+    "word": "chignon",
     "partOfSpeech": "noun",
-    "definition": "a right granted as a peculiar benefit, advantage, or favor.",
+    "definition": "a smooth knot, twist, or arrangement of hair worn at the back of the head especially at the nape of the neck.",
     "alternatives": []
   },
   {
     "number": 295,
-    "word": "fallow",
-    "partOfSpeech": "adjective",
-    "definition": "left untilled or unsown after plowing : uncultivated.",
+    "word": "pheromone",
+    "partOfSpeech": "noun",
+    "definition": "a chemical substance that is produced by an animal and serves as a specific stimulus to other individuals of the same species for one or more behavioral responses.",
     "alternatives": []
   },
   {
     "number": 296,
-    "word": "replica",
+    "word": "galleon",
     "partOfSpeech": "noun",
-    "definition": "a copy of an original work of art.",
+    "definition": "a heavy chiefly square-rigged sailing ship of the 15th to early 18th centuries used for war or commerce especially by the Spanish.",
     "alternatives": []
   },
   {
     "number": 297,
-    "word": "provision",
-    "partOfSpeech": "noun",
-    "definition": "a stipulation (as a clause in a statute or contract) made in advance.",
+    "word": "magnanimous",
+    "partOfSpeech": "adjective",
+    "definition": "having, showing or suggesting nobility of feeling and generosity of mind.",
     "alternatives": []
   },
   {
     "number": 298,
-    "word": "reference",
+    "word": "chartreuse",
     "partOfSpeech": "noun",
-    "definition": "a book or a passage in a work to which a reader is directed.",
+    "definition": "a variable color averaging a brilliant yellow green.",
     "alternatives": []
   },
   {
     "number": 299,
-    "word": "havens",
-    "partOfSpeech": "plural noun",
-    "definition": "places offering favorable opportunities or conditions.",
+    "word": "wainscoting",
+    "partOfSpeech": "verb",
+    "definition": "lining (as a wall) with or as if with boards or paneling.",
     "alternatives": []
   },
   {
     "number": 300,
-    "word": "voracious",
+    "word": "Nehru",
     "partOfSpeech": "adjective",
-    "definition": "excessively eager : avid, insatiable.",
+    "definition": "having a long narrow cut and a mandarin collar — usually used of a jacket.",
     "alternatives": []
   },
   {
     "number": 301,
-    "word": "tripe",
-    "partOfSpeech": "noun",
-    "definition": "a wall of the stomach of an animal that chews cud and especially of the ox used as an article of food.",
+    "word": "gangly",
+    "partOfSpeech": "adjective",
+    "definition": "having a spindling or awkwardly long growth : loosely built : lanky.",
     "alternatives": []
   },
   {
     "number": 302,
-    "word": "slakes",
-    "partOfSpeech": "verb",
-    "definition": "brings (as thirst) to an end with or as if with refreshing drink : satisfies.",
+    "word": "swaggering",
+    "partOfSpeech": "adjective",
+    "definition": "of, relating to, or having the characteristics of one who conducts oneself in an arrogant or superciliously pompous manner.",
     "alternatives": []
   },
   {
     "number": 303,
-    "word": "Illinois",
-    "partOfSpeech": "geographical entry",
-    "definition": "state in the central part of the U.S. having the Mississippi River as its western boundary; capital Springfield.",
+    "word": "chimneys",
+    "partOfSpeech": "plural noun",
+    "definition": "vertical structures incorporated into a building and enclosing flues that carry off smoke or other undesirable fumes or gases.",
     "alternatives": []
   },
   {
     "number": 304,
-    "word": "commandments",
-    "partOfSpeech": "plural noun",
-    "definition": "acts of directing authoritatively or what is directed in such a manner.",
+    "word": "riveted",
+    "partOfSpeech": "adjective",
+    "definition": "attracted and held engrossingly (as the attention).",
     "alternatives": []
   },
   {
     "number": 305,
-    "word": "contagion",
-    "partOfSpeech": "noun",
-    "definition": "the process by which disease is transmitted from one person to another by direct or indirect means.",
+    "word": "plaid",
+    "partOfSpeech": "adjective",
+    "definition": "having a cross-barred multicolored pattern.",
     "alternatives": []
   },
   {
     "number": 306,
-    "word": "decibels",
-    "partOfSpeech": "plural noun",
-    "definition": "degrees of loudness.",
+    "word": "dirge",
+    "partOfSpeech": "noun",
+    "definition": "a song or hymn expressing grief or a solemn sense of loss especially to accompany funeral or memorial rites.",
     "alternatives": []
   },
   {
     "number": 307,
-    "word": "repose",
+    "word": "zeal",
     "partOfSpeech": "noun",
-    "definition": "a state of resting after exertion or strain.",
+    "definition": "impassioned eagerness.",
     "alternatives": []
   },
   {
     "number": 308,
-    "word": "nondescript",
-    "partOfSpeech": "adjective",
-    "definition": "lacking distinguishing characteristics or a distinctive character.",
+    "word": "whittled",
+    "partOfSpeech": "verb",
+    "definition": "cut or shaped (as a piece of wood) by paring or cutting off chips from the surface of with a knife.",
     "alternatives": []
   },
   {
     "number": 309,
-    "word": "expulsion",
-    "partOfSpeech": "noun",
-    "definition": "summary removal from membership or association.",
+    "word": "depots",
+    "partOfSpeech": "plural noun",
+    "definition": "bus stations.",
     "alternatives": []
   },
   {
     "number": 310,
-    "word": "Laundromat",
+    "word": "fiberglass",
     "partOfSpeech": "noun",
-    "definition": "a self-service laundry.",
+    "definition": "glass in fibrous form used in making various products.",
     "alternatives": []
   },
   {
     "number": 311,
-    "word": "pervading",
+    "word": "salvaged",
     "partOfSpeech": "verb",
-    "definition": "spreading throughout : permeating.",
+    "definition": "rescued or saved especially from wreckage or ruin.",
     "alternatives": []
   },
   {
     "number": 312,
-    "word": "malnutrition",
-    "partOfSpeech": "noun",
-    "definition": "faulty nourishment due to a lack of or imbalance in substances that promote growth and provide energy.",
+    "word": "fissures",
+    "partOfSpeech": "plural noun",
+    "definition": "narrow openings, chasms, or cracks of some length and considerable depth usually occurring from some breaking, rending, or parting.",
     "alternatives": []
   },
   {
     "number": 313,
-    "word": "tunic",
-    "partOfSpeech": "noun",
-    "definition": "a simple slip-on garment worn by men and women of ancient Greece and Rome.",
+    "word": "enthusiastic",
+    "partOfSpeech": "adjective",
+    "definition": "having an ardent, receptive, responsive temperament.",
     "alternatives": []
   },
   {
     "number": 314,
-    "word": "extravagant",
-    "partOfSpeech": "adjective",
-    "definition": "wildly exaggerated often to the point of absurdity : pushed beyond credibility.",
+    "word": "discipline",
+    "partOfSpeech": "noun",
+    "definition": "a subject that is taught : a branch of learning : field of study.",
     "alternatives": []
   },
   {
     "number": 315,
-    "word": "innards",
-    "partOfSpeech": "plural noun",
-    "definition": "the internal parts of a structure or mechanism.",
+    "word": "unfamiliar",
+    "partOfSpeech": "adjective",
+    "definition": "not well known : strange, unaccustomed.",
     "alternatives": []
   },
   {
     "number": 316,
-    "word": "acclimate",
+    "word": "scurrying",
     "partOfSpeech": "verb",
-    "definition": "to adapt to a new temperature, environment, or situation.",
+    "definition": "moving in or as if in a brisk rapidly alternating step.",
     "alternatives": []
   },
   {
     "number": 317,
-    "word": "recede",
-    "partOfSpeech": "verb",
-    "definition": "to move back or away : to withdraw.",
+    "word": "dignitaries",
+    "partOfSpeech": "plural noun",
+    "definition": "those who possess exalted rank or hold a position of high regard or honor.",
     "alternatives": []
   },
   {
     "number": 318,
-    "word": "indignant",
-    "partOfSpeech": "adjective",
-    "definition": "marked by deep-felt resentment or anger.",
+    "word": "pizzeria",
+    "partOfSpeech": "noun",
+    "definition": "an establishment where usually large open pies typically of thinly rolled dough spread with a spiced mixture are made, baked, and sold.",
     "alternatives": []
   },
   {
     "number": 319,
-    "word": "wok",
+    "word": "dismissal",
     "partOfSpeech": "noun",
-    "definition": "a large bowl-shaped cooking utensil used especially in stir-frying.",
+    "definition": "the fact or state of being removed from employment, enrollment, position or office.",
     "alternatives": []
   },
   {
     "number": 320,
-    "word": "categorically",
-    "partOfSpeech": "adverb",
-    "definition": "without qualification or reservation : absolutely.",
+    "word": "skittish",
+    "partOfSpeech": "adjective",
+    "definition": "marked by extreme caution: fearful, wary.",
     "alternatives": []
   },
   {
     "number": 321,
-    "word": "demure",
-    "partOfSpeech": "adjective",
-    "definition": "marked by quiet modesty or restraint : shy.",
+    "word": "careened",
+    "partOfSpeech": "verb",
+    "definition": "swayed from side to side : lurched.",
     "alternatives": []
   },
   {
     "number": 322,
-    "word": "chasm",
+    "word": "nomination",
     "partOfSpeech": "noun",
-    "definition": "a deep opening : a narrow, deep steep-walled valley, gorge, or canyon.",
+    "definition": "an act or right of designating by name for an office or duty : appointment.",
     "alternatives": []
   },
   {
     "number": 323,
-    "word": "hitherto",
-    "partOfSpeech": "adverb",
-    "definition": "up to this time : until now.",
+    "word": "opportunist",
+    "partOfSpeech": "noun",
+    "definition": "one who practices taking advantage of circumstances, especially with little regard for principles or ultimate consequences.",
     "alternatives": []
   },
   {
     "number": 324,
-    "word": "horticulture",
+    "word": "dictatorship",
     "partOfSpeech": "noun",
-    "definition": "the science and art of growing fruits, vegetables, flowers, or ornamental plants.",
+    "definition": "a form of government in which a chief magistrate or small clique has absolute power without effective constitutional limitations.",
     "alternatives": []
   },
   {
     "number": 325,
-    "word": "magistrates",
+    "word": "comrades",
     "partOfSpeech": "plural noun",
-    "definition": "local officials exercising administrative and often judicial functions.",
+    "definition": "very close friends : companions.",
     "alternatives": []
   },
   {
     "number": 326,
-    "word": "sprocket",
-    "partOfSpeech": "noun",
-    "definition": "a tooth or a part that juts out (as on the edge of a wheel) shaped so as to engage with a chain.",
+    "word": "sporadic",
+    "partOfSpeech": "adjective",
+    "definition": "occurring occasionally, singly or in scattered instances.",
     "alternatives": []
   },
   {
     "number": 327,
-    "word": "punctually",
-    "partOfSpeech": "adverb",
-    "definition": "in a manner marked by exact adherence to an appointed time.",
+    "word": "promenade",
+    "partOfSpeech": "noun",
+    "definition": "a leisurely walk or ride especially in a public place for pleasure, display or exercise.",
     "alternatives": []
   },
   {
     "number": 328,
-    "word": "dynasty",
-    "partOfSpeech": "noun",
-    "definition": "a family that establishes and maintains its position of power for generations.",
+    "word": "repugnant",
+    "partOfSpeech": "adjective",
+    "definition": "distasteful to a high degree : exciting distaste or aversion : loathsome.",
     "alternatives": []
   },
   {
     "number": 329,
-    "word": "koi",
-    "partOfSpeech": "noun",
-    "definition": "a soft-finned freshwater fish that inhabits ponds and is indigenous to Asia but is extensively reared elsewhere in artificial ponds — called also carp.",
+    "word": "invincible",
+    "partOfSpeech": "adjective",
+    "definition": "incapable of being vanquished or subjugated : impervious to attack or conquest.",
     "alternatives": []
   },
   {
     "number": 330,
-    "word": "incense",
-    "partOfSpeech": "noun",
-    "definition": "the perfume or the smoke emitted from spices and gums when burned.",
+    "word": "renowned",
+    "partOfSpeech": "adjective",
+    "definition": "celebrated.",
     "alternatives": []
   },
   {
     "number": 331,
-    "word": "incited",
-    "partOfSpeech": "verb",
-    "definition": "moved to a course of action : stirred up.",
+    "word": "parachute",
+    "partOfSpeech": "noun",
+    "definition": "a folding umbrella-shaped device made of light fabric and used for making a safe descent from an airplane, dropping equipment or supplies from an airplane, or slowing down an airplane upon landing.",
     "alternatives": []
   },
   {
     "number": 332,
-    "word": "deficiencies",
-    "partOfSpeech": "plural noun",
-    "definition": "shortages of substances (such as vitamins) necessary to health.",
+    "word": "laborious",
+    "partOfSpeech": "adjective",
+    "definition": "involving or characterized by hard or toilsome effort or by careful and detailed development.",
     "alternatives": []
   },
   {
     "number": 333,
-    "word": "incarnated",
-    "partOfSpeech": "verb",
-    "definition": "gave bodily form and substance to.",
+    "word": "appointment",
+    "partOfSpeech": "noun",
+    "definition": "an arrangement for a meeting : engagement.",
     "alternatives": []
   },
   {
     "number": 334,
-    "word": "pews",
-    "partOfSpeech": "plural noun",
-    "definition": "benches with backs fixed in rows in a church.",
+    "word": "foreseeable",
+    "partOfSpeech": "adjective",
+    "definition": "lying within the range for which forecasts are possible.",
     "alternatives": []
   },
   {
     "number": 335,
-    "word": "malicious",
-    "partOfSpeech": "adjective",
-    "definition": "marked by evil intention.",
+    "word": "ratify",
+    "partOfSpeech": "verb",
+    "definition": "to make (as a treaty) valid or legally operative : confirm.",
     "alternatives": []
   },
   {
     "number": 336,
-    "word": "interstellar",
-    "partOfSpeech": "adjective",
-    "definition": "located among the stars or passing from one star to another.",
+    "word": "scalpel",
+    "partOfSpeech": "noun",
+    "definition": "a small straight knife with a thin keen blade used especially for dissecting.",
     "alternatives": []
   },
   {
     "number": 337,
-    "word": "petticoat",
-    "partOfSpeech": "noun",
-    "definition": "a skirt that is usually a little shorter than outer clothing, is made with a ruffled edge, and is worn under other clothing.",
+    "word": "reclusive",
+    "partOfSpeech": "adjective",
+    "definition": "marked by seclusion or retirement : solitary.",
     "alternatives": []
   },
   {
     "number": 338,
-    "word": "insufferable",
+    "word": "compassionate",
     "partOfSpeech": "adjective",
-    "definition": "intolerable especially by reason of assumed superiority.",
+    "definition": "marked by a ready inclination to pity, sympathy, or tenderness.",
     "alternatives": []
   },
   {
     "number": 339,
-    "word": "spawned",
-    "partOfSpeech": "verb",
-    "definition": "brought forth : generated, produced.",
+    "word": "bulletin",
+    "partOfSpeech": "noun",
+    "definition": "a brief public notice concerning a matter of marked current interest and usually issuing from an authoritative source.",
     "alternatives": []
   },
   {
     "number": 340,
-    "word": "gorilla",
+    "word": "alfalfa",
     "partOfSpeech": "noun",
-    "definition": "a large anthropoid ape of the forest region of equatorial West Africa.",
+    "definition": "an important leguminous forage plant grown widely and principally for hay and adapted to widely varying conditions of climate and soil.",
     "alternatives": []
   },
   {
     "number": 341,
-    "word": "quarry",
-    "partOfSpeech": "noun",
-    "definition": "an open excavation usually for obtaining building stone, slate, or limestone.",
+    "word": "officially",
+    "partOfSpeech": "adverb",
+    "definition": "with formal authorization : formally.",
     "alternatives": []
   },
   {
     "number": 342,
-    "word": "kung fu",
+    "word": "crematorium",
     "partOfSpeech": "noun",
-    "definition": "any of various Chinese martial arts that are practiced especially for self-defense, exercise, and spiritual growth.",
+    "definition": "a building containing a furnace for reducing the bodies of the dead to ashes by the action of fire either directly or in an oven or retort.",
     "alternatives": []
   },
   {
     "number": 343,
-    "word": "steeds",
-    "partOfSpeech": "plural noun",
-    "definition": "horses; especially : spirited horses for state or war.",
+    "word": "bayonet",
+    "partOfSpeech": "noun",
+    "definition": "a steel blade made to be attached to the muzzle end of a type of firearm that is fired while braced against the shoulder.",
     "alternatives": []
   },
   {
     "number": 344,
-    "word": "destitution",
-    "partOfSpeech": "noun",
-    "definition": "deprivation of the necessaries of life : extreme poverty.",
+    "word": "amicable",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by friendship and goodwill.",
     "alternatives": []
   },
   {
     "number": 345,
-    "word": "patronize",
-    "partOfSpeech": "verb",
-    "definition": "to adopt an air of superiority and condescension toward someone.",
-    "alternatives": [
-      "patronise"
-    ]
+    "word": "exuberant",
+    "partOfSpeech": "adjective",
+    "definition": "joyously unrestrained and enthusiastic.",
+    "alternatives": []
   },
   {
     "number": 346,
-    "word": "dilute",
-    "partOfSpeech": "verb",
-    "definition": "to make less concentrated : to diminish the strength or flavor of something.",
+    "word": "beautician",
+    "partOfSpeech": "noun",
+    "definition": "someone who is trained to style hair or give beauty treatments.",
     "alternatives": []
   },
   {
     "number": 347,
-    "word": "societal",
-    "partOfSpeech": "adjective",
-    "definition": "of or relating to a community with common traditions, institutions, and interests.",
+    "word": "equations",
+    "partOfSpeech": "plural noun",
+    "definition": "statements of equivalence between two mathematical expressions (such as numbers, functions, magnitudes, operations), the sign = usually being placed between them.",
     "alternatives": []
   },
   {
     "number": 348,
-    "word": "uncanny",
-    "partOfSpeech": "adjective",
-    "definition": "arousing feelings of dread or of inexplicable strangeness.",
+    "word": "assignment",
+    "partOfSpeech": "noun",
+    "definition": "a specified amount of work or a definite task or mission prescribed by authority or undertaken as though so prescribed.",
     "alternatives": []
   },
   {
     "number": 349,
-    "word": "communing",
-    "partOfSpeech": "verb",
-    "definition": "gaining an earnest or deep feeling of unity, appreciation, and receptivity.",
+    "word": "ultimatum",
+    "partOfSpeech": "noun",
+    "definition": "a last demand or proposal whose rejection will end negotiations and trigger an action such as force.",
     "alternatives": []
   },
   {
     "number": 350,
-    "word": "deadpan",
+    "word": "whinnying",
     "partOfSpeech": "verb",
-    "definition": "to act in a manner marked by complete absence of expression or mobility.",
+    "definition": "neighing especially in a low or gentle fashion.",
     "alternatives": []
   },
   {
     "number": 351,
-    "word": "arable",
-    "partOfSpeech": "adjective",
-    "definition": "capable of being plowed : fit for crop production.",
+    "word": "squalor",
+    "partOfSpeech": "noun",
+    "definition": "the quality or state of being marked by filthiness and degradation usually from neglect.",
     "alternatives": []
   },
   {
     "number": 352,
-    "word": "surfactant",
-    "partOfSpeech": "noun",
-    "definition": "a substance useful for its cleansing, wetting, dispersing, or similar powers.",
+    "word": "memoirs",
+    "partOfSpeech": "plural noun",
+    "definition": "histories or narratives composed from or stressing personal experience and acquaintance with the events, scenes, or persons described.",
     "alternatives": []
   },
   {
     "number": 353,
-    "word": "nitrogen",
-    "partOfSpeech": "noun",
-    "definition": "a common nonmetallic element that constitutes 78 per cent of the atmosphere by volume and occurs as a constituent of all living cells.",
+    "word": "cylinders",
+    "partOfSpeech": "plural noun",
+    "definition": "objects or forms having flat circular ends and straight sides.",
     "alternatives": []
   },
   {
     "number": 354,
-    "word": "paralysis",
-    "partOfSpeech": "noun",
-    "definition": "a state of powerlessness or inactivity.",
+    "word": "ominous",
+    "partOfSpeech": "adjective",
+    "definition": "indicative of future misfortune or calamity : causing anxiety and fear.",
     "alternatives": []
   },
   {
     "number": 355,
-    "word": "metronome",
+    "word": "muffler",
     "partOfSpeech": "noun",
-    "definition": "an instrument that emits an audible repetitive tap regulated to mark rhythm.",
+    "definition": "any of various devices to deaden the noise of escaping gases or vapor.",
     "alternatives": []
   },
   {
     "number": 356,
-    "word": "attorney",
+    "word": "syndrome",
     "partOfSpeech": "noun",
-    "definition": "one whose profession is to conduct lawsuits for clients or to advise as to the prosecution or defense of lawsuits : a lawyer.",
+    "definition": "a group of symptoms or signs typical of a disease, disturbance, or condition in animals or plants.",
     "alternatives": []
   },
   {
     "number": 357,
-    "word": "snivel",
-    "partOfSpeech": "verb",
-    "definition": "to speak or act in a whining or weakly emotional manner.",
+    "word": "premises",
+    "partOfSpeech": "plural noun",
+    "definition": "a building and the area of land it sits on.",
     "alternatives": []
   },
   {
     "number": 358,
-    "word": "contemptible",
-    "partOfSpeech": "adjective",
-    "definition": "meriting scorn and condemnation as paltry, mean, or vile.",
+    "word": "safari",
+    "partOfSpeech": "noun",
+    "definition": "a hunting or other expedition in east Africa especially on foot.",
     "alternatives": []
   },
   {
     "number": 359,
-    "word": "altimeter",
+    "word": "lasagna",
     "partOfSpeech": "noun",
-    "definition": "an instrument for measuring height (as above sea level or ground level).",
+    "definition": "a baked dish containing layers of boiled pasta ribbons, cheese, a seasoned sauce of tomatoes, and meat or vegetables.",
     "alternatives": []
   },
   {
     "number": 360,
-    "word": "jugular",
-    "partOfSpeech": "adjective",
-    "definition": "of or relating to the throat or neck.",
+    "word": "substantially",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner considerable in amount, value, or worth.",
     "alternatives": []
   },
   {
     "number": 361,
-    "word": "insolent",
+    "word": "mercantile",
     "partOfSpeech": "adjective",
-    "definition": "haughty and contemptuous or brutal in behavior or language.",
+    "definition": "of or relating to merchants or trading : appropriate to or characteristic of merchants : engaged in trade.",
     "alternatives": []
   },
   {
     "number": 362,
-    "word": "aura",
-    "partOfSpeech": "noun",
-    "definition": "a distinctive appearance or impression.",
+    "word": "formidable",
+    "partOfSpeech": "adjective",
+    "definition": "tending to inspire awe or wonder usually by reason of notable size, quantity, superiority or excellence.",
     "alternatives": []
   },
   {
     "number": 363,
-    "word": "propitious",
-    "partOfSpeech": "adjective",
-    "definition": "encouraging : favorable.",
+    "word": "propaganda",
+    "partOfSpeech": "noun",
+    "definition": "the spreading of rumor, ideas or information for the purpose of either helping or injuring a person, institution or cause.",
     "alternatives": []
   },
   {
     "number": 364,
-    "word": "ellipsis",
-    "partOfSpeech": "noun",
-    "definition": "omission of one or more words that are obviously understood but must be supplied to make a construction grammatically complete.",
+    "word": "marquee",
+    "partOfSpeech": "adjective",
+    "definition": "having the star power of someone who is famous.",
     "alternatives": []
   },
   {
     "number": 365,
-    "word": "thyroid",
-    "partOfSpeech": "noun",
-    "definition": "a large endocrine gland in the base of the neck that influences growth and development.",
+    "word": "proficient",
+    "partOfSpeech": "adjective",
+    "definition": "well advanced in an art, an occupation, a skill, or a branch of knowledge.",
     "alternatives": []
   },
   {
     "number": 366,
-    "word": "elongated",
-    "partOfSpeech": "verb",
-    "definition": "increased the length of : stretched out.",
+    "word": "compunction",
+    "partOfSpeech": "noun",
+    "definition": "remorse, reluctance, misgiving.",
     "alternatives": []
   },
   {
     "number": 367,
-    "word": "lasso",
-    "partOfSpeech": "noun",
-    "definition": "a rope with a running noose that is used especially for catching horses and cattle.",
-    "alternatives": [
-      "lassoo"
-    ]
+    "word": "emphatically",
+    "partOfSpeech": "adverb",
+    "definition": "in an insistent manner.",
+    "alternatives": []
   },
   {
     "number": 368,
-    "word": "incandescent",
-    "partOfSpeech": "adjective",
-    "definition": "strikingly bright, radiant, or clear.",
+    "word": "hyperventilated",
+    "partOfSpeech": "verb",
+    "definition": "underwent excessive rate and depth of respiration leading to abnormal loss of carbon dioxide from the blood.",
     "alternatives": []
   },
   {
     "number": 369,
-    "word": "bureaucrats",
-    "partOfSpeech": "plural noun",
-    "definition": "government officials confirmed in a narrow rigid formal routine or established with great authority in one department.",
+    "word": "ostracism",
+    "partOfSpeech": "noun",
+    "definition": "exclusion from common privileges or social acceptance.",
     "alternatives": []
   },
   {
     "number": 370,
-    "word": "refuge",
+    "word": "onslaught",
     "partOfSpeech": "noun",
-    "definition": "shelter or protection from danger or distress.",
+    "definition": "an especially fierce attack.",
     "alternatives": []
   },
   {
     "number": 371,
-    "word": "shoal",
-    "partOfSpeech": "noun",
-    "definition": "a sandbar that causes the water to be less deep.",
+    "word": "ruefully",
+    "partOfSpeech": "adverb",
+    "definition": "in a pitiable or woeful manner.",
     "alternatives": []
   },
   {
     "number": 372,
-    "word": "perpendicularity",
+    "word": "misanthrope",
     "partOfSpeech": "noun",
-    "definition": "the quality or state of being or set at right angles to a given line or plane.",
+    "definition": "one who hates or despises mankind.",
     "alternatives": []
   },
   {
     "number": 373,
-    "word": "antechamber",
+    "word": "prototype",
     "partOfSpeech": "noun",
-    "definition": "a room leading into a chief apartment and serving as a waiting room.",
+    "definition": "the first full-scale model of a new type or design of furniture, machinery, or vehicle.",
     "alternatives": []
   },
   {
     "number": 374,
-    "word": "jeopardy",
-    "partOfSpeech": "noun",
-    "definition": "exposure to or imminence of death, loss, or injury : danger.",
+    "word": "cravenly",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner lacking even the rudiments of courage: contemptibly faintheartedly.",
     "alternatives": []
   },
   {
     "number": 375,
-    "word": "sauna",
+    "word": "mulberry",
     "partOfSpeech": "noun",
-    "definition": "a Finnish bath in steam from water thrown on heated stones.",
+    "definition": "the edible usually dark purple fruit of a tree of the same name.",
     "alternatives": []
   },
   {
     "number": 376,
-    "word": "conciliatory",
+    "word": "hypocritical",
     "partOfSpeech": "adjective",
-    "definition": "tending to win over from a state of hostility or distrust.",
+    "definition": "of or relating to the act or practice of pretending to be what one is not or to have principles or beliefs that one does not have.",
     "alternatives": []
   },
   {
     "number": 377,
-    "word": "forsook",
-    "partOfSpeech": "verb",
-    "definition": "departed or withdrew from : deserted, abandoned.",
+    "word": "chlorine",
+    "partOfSpeech": "noun",
+    "definition": "a common nonmetallic element best known as a heavy greenish irritating toxic gas of disagreeable odor and used chiefly as a powerful bleaching, oxidizing, and disinfecting agent in water purification.",
     "alternatives": []
   },
   {
     "number": 378,
-    "word": "boba",
-    "partOfSpeech": "noun",
-    "definition": "a sweet drink of Taiwanese origin that consists of tea mixed typically with milk or fruit syrup and small balls of tapioca.",
+    "word": "traumatic",
+    "partOfSpeech": "adjective",
+    "definition": "of, relating to, or resulting from an injury or wound to the human body caused by the application of external force or violence.",
     "alternatives": []
   },
   {
     "number": 379,
-    "word": "animatronics",
+    "word": "receipts",
     "partOfSpeech": "plural noun",
-    "definition": "puppets or similar figures that are made lifelike by means of electromechanical devices.",
+    "definition": "writings acknowledging the taking or accepting of goods or money delivered or paid.",
     "alternatives": []
   },
   {
     "number": 380,
-    "word": "frijoles",
-    "partOfSpeech": "plural noun",
-    "definition": "any of certain dark red kidney-shaped beans.",
+    "word": "solemnly",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner marked by grave sobriety and earnest serious sedateness : free from casualness or lighthearted levity.",
     "alternatives": []
   },
   {
     "number": 381,
-    "word": "minimus",
-    "partOfSpeech": "noun",
-    "definition": "the little finger or toe.",
+    "word": "begrudge",
+    "partOfSpeech": "verb",
+    "definition": "to look upon or acknowledge with reluctance, hesitation, or disapproval.",
     "alternatives": []
   },
   {
     "number": 382,
-    "word": "senescent",
+    "word": "contentious",
     "partOfSpeech": "adjective",
-    "definition": "growing old.",
+    "definition": "marked by a wearisome tendency to disputes.",
     "alternatives": []
   },
   {
     "number": 383,
-    "word": "secreted",
-    "partOfSpeech": "verb",
-    "definition": "produced and emitted from a gland a product that performs a specific function in an organism.",
+    "word": "precocious",
+    "partOfSpeech": "adjective",
+    "definition": "manifesting at an early age some of the mental or physical characteristics usually associated with maturity.",
     "alternatives": []
   },
   {
     "number": 384,
-    "word": "aspirin",
+    "word": "ensemble",
     "partOfSpeech": "noun",
-    "definition": "a white crystalline compound of salicylic acid used in tablet form to decrease fever and as a pain-killer.",
+    "definition": "a group of supporting players or the chorus.",
     "alternatives": []
   },
   {
     "number": 385,
-    "word": "aptitude",
+    "word": "cadre",
     "partOfSpeech": "noun",
-    "definition": "a natural or acquired capacity or ability.",
+    "definition": "a nucleus or core group especially of trained personnel or active members of an organization who are capable of assuming leadership or of training and indoctrinating others.",
     "alternatives": []
   },
   {
     "number": 386,
-    "word": "Chicana",
+    "word": "lye",
     "partOfSpeech": "noun",
-    "definition": "an American woman or girl of Mexican descent.",
+    "definition": "a strong alkaline liquor that contains chiefly potassium carbonate obtained by leaching wood ashes with water and that has been used especially in soapmaking and washing.",
     "alternatives": []
   },
   {
     "number": 387,
-    "word": "bilge",
+    "word": "belfry",
     "partOfSpeech": "noun",
-    "definition": "water that collects by seepage or leakage in the bottom of a ship.",
+    "definition": "a bell tower.",
     "alternatives": []
   },
   {
     "number": 388,
-    "word": "simultaneously",
-    "partOfSpeech": "adverb",
-    "definition": "at the same time.",
+    "word": "lacrosse",
+    "partOfSpeech": "noun",
+    "definition": "a game played with two teams of ten players each with each player using a long-handled stick to catch and throw a ball, and with the object being to throw the ball into the opponents’ goal.",
     "alternatives": []
   },
   {
     "number": 389,
-    "word": "Copenhagen",
-    "partOfSpeech": "geographical entry",
-    "definition": "the capital city and a port of Denmark.",
+    "word": "sluice",
+    "partOfSpeech": "noun",
+    "definition": "a body of water pent up behind a floodgate or water gate.",
     "alternatives": []
   },
   {
     "number": 390,
-    "word": "Bunsen burner",
+    "word": "cajolery",
     "partOfSpeech": "noun",
-    "definition": "a device used especially in the laboratory that has a straight barrel with holes near the bottom to let in air that mixes with the gas to produce a hot flame.",
+    "definition": "the act or practice of alluring or inducing by soft words or flattery.",
     "alternatives": []
   },
   {
     "number": 391,
-    "word": "defoliant",
+    "word": "vigilance",
     "partOfSpeech": "noun",
-    "definition": "a chemical spray or dust applied to crop plants to cause the leaves to drop off prematurely.",
+    "definition": "watchfulness in respect of danger or hazard.",
     "alternatives": []
   },
   {
     "number": 392,
-    "word": "aerosol",
-    "partOfSpeech": "noun",
-    "definition": "a substance and a propellant (as compressed gas) in a container with a valve through which the substance is dispensed as a suspension of fine solid or liquid particles.",
+    "word": "residuals",
+    "partOfSpeech": "plural noun",
+    "definition": "payments (as to an actor or writer) for each rerun especially of a commercial.",
     "alternatives": []
   },
   {
     "number": 393,
-    "word": "Ramadan",
+    "word": "boutique",
     "partOfSpeech": "noun",
-    "definition": "the 9th month of the Islamic year observed as a sacred month on each day of which strict fasting is practiced from dawn to sunset.",
-    "alternatives": [
-      "Ramadhan"
-    ]
+    "definition": "a small retail store; especially : a specialty shop dealing in ladies’ fashionable ready-to-wear clothes and accessories.",
+    "alternatives": []
   },
   {
     "number": 394,
-    "word": "photosynthesis",
+    "word": "peroxide",
     "partOfSpeech": "noun",
-    "definition": "the formation of carbohydrates from carbon dioxide and a source of hydrogen in chlorophyll-containing cells, such as those in green plants, when exposed to light.",
+    "definition": "a binary compound containing a relatively high proportion of oxygen.",
     "alternatives": []
   },
   {
     "number": 395,
-    "word": "malignant",
-    "partOfSpeech": "adjective",
-    "definition": "tending to produce death or deterioration — used in medicine.",
+    "word": "aristocracy",
+    "partOfSpeech": "noun",
+    "definition": "an upper class usually made up of a hereditary nobility.",
     "alternatives": []
   },
   {
     "number": 396,
-    "word": "matterhorn",
+    "word": "apocalypse",
     "partOfSpeech": "noun",
-    "definition": "a high steep-sided sharp-pointed peak or mountain.",
+    "definition": "something with the quality of a revelation by prophecy.",
     "alternatives": []
   },
   {
     "number": 397,
-    "word": "divot",
+    "word": "tuberculosis",
     "partOfSpeech": "noun",
-    "definition": "a piece of turf dug from a golf fairway in making a stroke.",
+    "definition": "a communicable disease caused by a bacillus and characterized by toxic symptoms or allergic manifestations which in humans primarily affect the lungs.",
     "alternatives": []
   },
   {
     "number": 398,
-    "word": "pixels",
-    "partOfSpeech": "plural noun",
-    "definition": "the numerous small discrete elements that together constitute an image (as on a television screen).",
+    "word": "barricade",
+    "partOfSpeech": "noun",
+    "definition": "an object or objects placed so as to prevent entry or passage.",
     "alternatives": []
   },
   {
     "number": 399,
-    "word": "antonyms",
+    "word": "confreres",
     "partOfSpeech": "plural noun",
-    "definition": "words of opposite meaning.",
+    "definition": "colleagues : fellow workers (as in a profession or in a field of study).",
     "alternatives": []
   },
   {
     "number": 400,
-    "word": "Trinidadian",
-    "partOfSpeech": "adjective",
-    "definition": "of, relating to, or characteristic of an island of the southeastern West Indies and located off the coast of northeastern Venezuela.",
+    "word": "anonymously",
+    "partOfSpeech": "adverb",
+    "definition": "in a manner that is of unknown or unnamed source or origin.",
     "alternatives": []
   },
   {
     "number": 401,
-    "word": "mangels",
-    "partOfSpeech": "plural noun",
-    "definition": "large coarse yellow to reddish orange beets grown as food for cattle.",
+    "word": "unparalleled",
+    "partOfSpeech": "adjective",
+    "definition": "having no equal or match.",
     "alternatives": []
   },
   {
     "number": 402,
-    "word": "nopales",
-    "partOfSpeech": "plural noun",
-    "definition": "young tender stem segments of the prickly pear cactus that are used as food.",
+    "word": "barrette",
+    "partOfSpeech": "noun",
+    "definition": "a clip used to hold hair in place.",
     "alternatives": []
   },
   {
     "number": 403,
-    "word": "Gilgamesh",
+    "word": "chassis",
     "partOfSpeech": "noun",
-    "definition": "a legendary Sumerian king and hero of a particular long narrative poem.",
+    "definition": "the frame upon which is mounted the body (as of an automobile or airplane).",
     "alternatives": []
   },
   {
     "number": 404,
-    "word": "conjunto",
+    "word": "junket",
     "partOfSpeech": "noun",
-    "definition": "a kind of Mexican-American music that has been influenced by the music of German immigrants to Texas and that features the accordion in addition to Mexican elements.",
+    "definition": "a pleasure trip or tour made by an official at public expense ostensibly for purposes of inspection, investigation, or other public business.",
     "alternatives": []
   },
   {
     "number": 405,
-    "word": "Sumerian",
-    "partOfSpeech": "adjective",
-    "definition": "of, relating to, or characteristic of the southern division of ancient Babylonia.",
+    "word": "quandary",
+    "partOfSpeech": "noun",
+    "definition": "a state of doubt or bewilderment : a dilemma.",
     "alternatives": []
   },
   {
     "number": 406,
-    "word": "pinyin",
-    "partOfSpeech": "noun",
-    "definition": "a system for romanizing Chinese ideograms in which tones are indicated by diacritics.",
+    "word": "Erie",
+    "partOfSpeech": "geographical entry",
+    "definition": "a city and port on a lake in east central North America on the boundary between the U.S. and Canada; one of the Great Lakes.",
     "alternatives": []
   },
   {
     "number": 407,
-    "word": "Taoism",
+    "word": "gingham",
     "partOfSpeech": "noun",
-    "definition": "a religion and philosophy of China traditionally founded by Laozi in the sixth century B.C.E.",
-    "alternatives": [
-      "Daoism"
-    ]
+    "definition": "a clothing fabric usually of yarn-dyed cotton in plain weave made in solid colors, checks, plaids, and stripes.",
+    "alternatives": []
   },
   {
     "number": 408,
-    "word": "lymphoma",
+    "word": "silhouette",
     "partOfSpeech": "noun",
-    "definition": "an often malignant tumor of the tissue structures in a part of the body's circulatory system.",
+    "definition": "a likeness of a person or thing showing only the outline, and that is typically filled in with black.",
     "alternatives": []
   },
   {
     "number": 409,
-    "word": "scandium",
-    "partOfSpeech": "noun",
-    "definition": "a white metallic element found especially in various minerals in certain northern European countries.",
+    "word": "auxiliary",
+    "partOfSpeech": "adjective",
+    "definition": "offering or providing help, assistance, or support especially by interaction.",
     "alternatives": []
   },
   {
     "number": 410,
-    "word": "dendrochronology",
+    "word": "thesaurus",
     "partOfSpeech": "noun",
-    "definition": "the science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.",
+    "definition": "a book containing a store of words or of information about a particular field or set of concepts; specifically : a dictionary of synonyms.",
     "alternatives": []
   },
   {
     "number": 411,
-    "word": "palomino",
-    "partOfSpeech": "noun",
-    "definition": "a slender-legged horse that is light tan or cream in color with white markings on the face and legs.",
-    "alternatives": [
-      "palamino"
-    ]
+    "word": "patriarchs",
+    "partOfSpeech": "plural noun",
+    "definition": "men regarded as fathers or founders (as of a race, science, religion or class of people).",
+    "alternatives": []
   },
   {
     "number": 412,
-    "word": "retinitis pigmentosa",
+    "word": "chandelier",
     "partOfSpeech": "noun",
-    "definition": "any of several hereditary progressive degenerative diseases of the eye marked by constriction of the visual field and eventual blindness.",
+    "definition": "a lighting fixture suspended from the ceiling and having two or more usually upcurving arms bearing lights, originally candles, or two or more hanging lights.",
     "alternatives": []
   },
   {
     "number": 413,
-    "word": "fens",
-    "partOfSpeech": "plural noun",
-    "definition": "low peaty lands covered wholly or partly with water unless artificially drained.",
+    "word": "dulce",
+    "partOfSpeech": "noun",
+    "definition": "sweetmeat, candy — used in the Southwest.",
     "alternatives": []
   },
   {
     "number": 414,
-    "word": "haw",
+    "word": "concierge",
     "partOfSpeech": "noun",
-    "definition": "the fruit of any of several shrubs or trees of the genus Viburnum.",
+    "definition": "an attendant at the entrance of a building : a doorkeeper.",
     "alternatives": []
   },
   {
     "number": 415,
-    "word": "peplos",
+    "word": "latticework",
     "partOfSpeech": "noun",
-    "definition": "a garment worn by women of ancient Greece consisting of a rectangular cloth clasped usually with a brooch at the shoulder.",
-    "alternatives": [
-      "peplus"
-    ]
+    "definition": "an assemblage of structures of wood or metal made by crossing thin strips so as to form a network.",
+    "alternatives": []
   },
   {
     "number": 416,
-    "word": "moira",
+    "word": "hibiscus",
     "partOfSpeech": "noun",
-    "definition": "individual destiny : fate.",
+    "definition": "any plant or flower of a large widely distributed genus of herbs, shrubs or small trees with dentate or lobed leaves and large showy flowers.",
     "alternatives": []
   },
   {
     "number": 417,
-    "word": "Erlenmeyer flask",
+    "word": "tamale",
     "partOfSpeech": "noun",
-    "definition": "a flat-bottomed conical vessel, usually blown-glass, used for technical purposes in laboratories.",
+    "definition": "ground meat seasoned with chili or other filling, rolled up in cornmeal dough, wrapped in corn husks, and steamed.",
     "alternatives": []
   },
   {
     "number": 418,
-    "word": "Samian",
-    "partOfSpeech": "adjective",
-    "definition": "of or relating to a particular Greek island in the Aegean Sea.",
+    "word": "maracas",
+    "partOfSpeech": "plural noun",
+    "definition": "rattles of Latin American origin that are often made from a hollow gourd containing pebbles or dried seeds and that are used as a percussion instrument usually in pairs.",
     "alternatives": []
   },
   {
     "number": 419,
-    "word": "luciferin",
+    "word": "gyroplane",
     "partOfSpeech": "noun",
-    "definition": "a pigment found in luminescent organisms such as fireflies.",
+    "definition": "a fixed-wing aircraft balanced and supported by the aerodynamic forces acting on rapidly rotating horizontal or slightly inclined planes.",
     "alternatives": []
   },
   {
     "number": 420,
-    "word": "megaron",
-    "partOfSpeech": "noun",
-    "definition": "the great central hall of an ancient Mycenaean house usually containing a center hearth.",
+    "word": "burpees",
+    "partOfSpeech": "plural noun",
+    "definition": "conditioning exercises in which a person repeats a sequence of squats, push-ups, and vertical jumps.",
     "alternatives": []
   },
   {
     "number": 421,
-    "word": "sphagnum",
-    "partOfSpeech": "noun",
-    "definition": "a type of atypical moss that grows only in very wet acid areas where its accumulated remains become compacted with other plant debris to form peat.",
+    "word": "Adriatic",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to the sea that lies east of Italy.",
     "alternatives": []
   },
   {
     "number": 422,
-    "word": "pronaos",
+    "word": "piccolo",
     "partOfSpeech": "noun",
-    "definition": "the outer part of an ancient Greek temple forming a portico in front of the hidden inner part that housed the image of the deity.",
+    "definition": "a small shrill flute pitched an octave higher than the ordinary flute.",
     "alternatives": []
   },
   {
     "number": 423,
-    "word": "craquelure",
+    "word": "au revoir",
     "partOfSpeech": "noun",
-    "definition": "a breaking on the surface (as of varnish, color, or enamel) of a work of art so that clefts or fissures appear.",
+    "definition": "good-bye.",
     "alternatives": []
   },
   {
     "number": 424,
-    "word": "Macao",
-    "partOfSpeech": "geographical entry",
-    "definition": "a peninsula in the province of Guangdong, southeastern China, in the Xi River delta west of Hong Kong.",
-    "alternatives": [
-      "Macau"
-    ]
+    "word": "tulle",
+    "partOfSpeech": "noun",
+    "definition": "a sheer and often stiffened machine-made net made with a usually hexagonal mesh and of silk, rayon, or nylon and used chiefly for veils, evening dresses, or ballet costumes.",
+    "alternatives": []
   },
   {
     "number": 425,
-    "word": "silicon",
+    "word": "boll weevil",
     "partOfSpeech": "noun",
-    "definition": "a nonmetallic element that occurs abundantly in the earth's crust and is used chiefly in the form of alloys.",
+    "definition": "a grayish snout beetle about 1/4 inch long that infests the cotton plant, puncturing and laying its eggs in the squares and pods or capsules, the larvae living in and feeding on the interior substance of the buds and pods or capsules and doing great damage to developing cotton.",
     "alternatives": []
   },
   {
     "number": 426,
-    "word": "Albuquerque",
-    "partOfSpeech": "geographical entry",
-    "definition": "a city in New Mexico.",
+    "word": "camphor",
+    "partOfSpeech": "noun",
+    "definition": "a tough gumlike substance obtained especially from the wood and bark of a tree of the same name and used as a stimulant in medicine and as an insect repellent.",
     "alternatives": []
   },
   {
     "number": 427,
-    "word": "Mumbai",
+    "word": "Tucson",
     "partOfSpeech": "geographical entry",
-    "definition": "a city and port in western India.",
+    "definition": "city in southeastern Arizona.",
     "alternatives": []
   },
   {
     "number": 428,
-    "word": "turquoise",
-    "partOfSpeech": "noun",
-    "definition": "a mineral consisting of a blue, bluish green, or greenish gray hydrous basic copper aluminum phosphate isomorphous with chalcosiderite.",
-    "alternatives": [
-      "turquois"
-    ]
+    "word": "paparazzi",
+    "partOfSpeech": "plural noun",
+    "definition": "free-lance photographers who aggressively pursue celebrities in order to take candid photographs.",
+    "alternatives": []
   },
   {
     "number": 429,
-    "word": "Assam",
-    "partOfSpeech": "geographical entry",
-    "definition": "state of northeastern India on the edge of the Himalayas.",
+    "word": "pumpernickel",
+    "partOfSpeech": "noun",
+    "definition": "a sourdough bread made with rye and wheat flours.",
     "alternatives": []
   },
   {
     "number": 430,
-    "word": "lanthanides",
-    "partOfSpeech": "plural noun",
-    "definition": "chemical elements in a group of rare-earth metals.",
+    "word": "pogrom",
+    "partOfSpeech": "noun",
+    "definition": "an organized massacre and looting of helpless people usually with the connivance of officials; specifically : such a massacre of Jews.",
     "alternatives": []
   },
   {
     "number": 431,
-    "word": "antimony",
+    "word": "bursitis",
     "partOfSpeech": "noun",
-    "definition": "a metalloid element that is commonly metallic silvery white, crystalline, and brittle and is used especially as a constituent of alloys.",
+    "definition": "inflammation of a fluid-filled cavity in a joint of the body.",
     "alternatives": []
   },
   {
     "number": 432,
-    "word": "amphoras",
-    "partOfSpeech": "plural noun",
-    "definition": "ancient Greek jars or vases having large oval bodies, narrow cylindrical necks, and two handles.",
+    "word": "pâtisserie",
+    "partOfSpeech": "noun",
+    "definition": "a shop that sells French pastry.",
     "alternatives": []
   },
   {
     "number": 433,
-    "word": "hypocaust",
-    "partOfSpeech": "noun",
-    "definition": "a central heating system of an ancient Roman building consisting of an underground furnace and a series of tile flues for distribution of the heat.",
+    "word": "cycads",
+    "partOfSpeech": "plural noun",
+    "definition": "any plants abundant in the Mesozoic but now reduced to a few localized and widely scattered tropical forms that have an unbranched trunk which is tall and arborescent or squat and tuberous with a large pith and starchy cortex and that bears a terminal crown of long pinnate leaves together with one or more very large cones.",
     "alternatives": []
   },
   {
     "number": 434,
-    "word": "avens",
-    "partOfSpeech": "plural noun",
-    "definition": "plants of a genus of perennial herbs with pinnate or lyrate leaves and flowers with long plumose persistent styles.",
+    "word": "sarsaparilla",
+    "partOfSpeech": "noun",
+    "definition": "a sweetened carbonated beverage similar to root beer with the predominant flavor from birch oil and sassafras.",
     "alternatives": []
   },
   {
     "number": 435,
-    "word": "grebe",
+    "word": "maître d’",
     "partOfSpeech": "noun",
-    "definition": "any of various aquatic birds that are closely related to the loons and are very expert divers and able to swim long distances underwater.",
+    "definition": "the head of the dining-room staff of a restaurant or hotel.",
     "alternatives": []
   },
   {
     "number": 436,
-    "word": "pipette",
+    "word": "cannelloni",
     "partOfSpeech": "noun",
-    "definition": "a narrow glass tube into which liquid is drawn up by suction and in which it is retained by closing the upper end.",
-    "alternatives": [
-      "pipet"
-    ]
+    "definition": "tubes especially of pasta filled with a savory stuffing (as of meat).",
+    "alternatives": []
   },
   {
     "number": 437,
-    "word": "leks",
-    "partOfSpeech": "plural noun",
-    "definition": "sites to which birds regularly resort for purposes of courtship.",
+    "word": "boulangerie",
+    "partOfSpeech": "noun",
+    "definition": "a bakery that specializes in bread and especially in French-style breads.",
     "alternatives": []
   },
   {
     "number": 438,
-    "word": "pullets",
-    "partOfSpeech": "plural noun",
-    "definition": "hens of the common fowl less than a year old.",
+    "word": "bronchitis",
+    "partOfSpeech": "noun",
+    "definition": "acute or chronic inflammation of either of the two primary divisions of the trachea that lead respectively into the right and the left lung.",
     "alternatives": []
   },
   {
     "number": 439,
-    "word": "Macedonia",
+    "word": "Oswego",
     "partOfSpeech": "geographical entry",
-    "definition": "a region of southern Europe in the Balkan Peninsula in northeastern Greece.",
+    "definition": "city on Lake Ontario in northern New York.",
     "alternatives": []
   },
   {
     "number": 440,
-    "word": "centrifuge",
+    "word": "diphtheria",
     "partOfSpeech": "noun",
-    "definition": "a machine for whirling fluids rapidly to separate substances of different densities.",
+    "definition": "a contagious disease in children that causes a sore, swollen throat.",
     "alternatives": []
   },
   {
     "number": 441,
-    "word": "coleus",
+    "word": "baklava",
     "partOfSpeech": "noun",
-    "definition": "any of several Old World herbs of the mint family that are widely cultivated for their fragrant, often colorful foliage.",
+    "definition": "a dessert made of thin pastry layered with nuts and honey.",
     "alternatives": []
   },
   {
     "number": 442,
-    "word": "Tetrazzini",
-    "partOfSpeech": "adjective",
-    "definition": "prepared with pasta and a white sauce seasoned with sherry and served au gratin.",
+    "word": "corbels",
+    "partOfSpeech": "plural noun",
+    "definition": "architectural elements which project from within a wall and support a superincumbent weight; especially : ones that are stepped upward and outward from a vertical surface.",
     "alternatives": []
   },
   {
     "number": 443,
-    "word": "Pleiades",
-    "partOfSpeech": "noun",
-    "definition": "a cluster of stars in the constellation Taurus that includes six stars in the form of a very small dipper.",
+    "word": "trebuchets",
+    "partOfSpeech": "plural noun",
+    "definition": "medieval military engines designed to hurl stones and similar missiles with great force by means of a heavy weight fastened to the short arm of a lever which raises the end of the long throwing arm with great velocity.",
     "alternatives": []
   },
   {
     "number": 444,
-    "word": "coccidiosis",
-    "partOfSpeech": "noun",
-    "definition": "infestation with or disease caused by a large order of typically parasitic protozoans.",
+    "word": "Kilimanjaro",
+    "partOfSpeech": "geographical entry",
+    "definition": "a volcanic mountain in Tanzania near the border of Kenya whose central peak is the highest point in Africa.",
     "alternatives": []
   },
   {
     "number": 445,
-    "word": "rooibos tea",
+    "word": "fräulein",
     "partOfSpeech": "noun",
-    "definition": "a beverage that is made from a southern African shrub.",
+    "definition": "a usually young unmarried woman especially of Germany.",
     "alternatives": []
   },
   {
     "number": 446,
-    "word": "Versailles",
-    "partOfSpeech": "geographical entry",
-    "definition": "a small administrative district in northern France.",
+    "word": "protégé",
+    "partOfSpeech": "noun",
+    "definition": "one who is protected or trained or whose career is furthered by a person of experience, prominence, or influence : pupil.",
     "alternatives": []
   },
   {
     "number": 447,
-    "word": "meitnerium",
-    "partOfSpeech": "noun",
-    "definition": "a short-lived radioactive element that is produced artificially.",
+    "word": "hors d’oeuvres",
+    "partOfSpeech": "plural noun",
+    "definition": "any of various savory foods usually served as appetizers at the beginning of a meal.",
     "alternatives": []
   },
   {
     "number": 448,
-    "word": "Okefenokee",
-    "partOfSpeech": "geographical entry",
-    "definition": "swamp over 600 square miles long in southeastern Georgia and northeastern Florida.",
+    "word": "maquisards",
+    "partOfSpeech": "plural noun",
+    "definition": "French guerrilla fighters in World War II resisting the Nazis.",
     "alternatives": []
   },
   {
     "number": 449,
-    "word": "Popocatepetl",
-    "partOfSpeech": "geographical entry",
-    "definition": "volcano 17,887 feet high in Puebla, southeast central Mexico.",
+    "word": "Aubusson",
+    "partOfSpeech": "noun",
+    "definition": "a tapestry woven originally in the 16th century, noted for its figure and scenic designs, and used for wall hangings and upholstery.",
     "alternatives": []
   },
   {
     "number": 450,
-    "word": "Shaanxi",
-    "partOfSpeech": "geographical entry",
-    "definition": "province of north central China bordering on the Huang (Yellow) River; capital Xi'an.",
-    "alternatives": []
+    "word": "Charolais",
+    "partOfSpeech": "noun",
+    "definition": "a breed of large white cattle developed in France for draft purposes but now kept chiefly as a beef breed and important for crossbreeding.",
+    "alternatives": [
+      "Charollais"
+    ]
   }
 ]
